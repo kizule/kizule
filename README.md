@@ -30,10 +30,8 @@ I'm an MediaWiki developer and Wikipedian from Serbia.
 
 ### Some things about me:
 
-* 💼 I'm currently working for <a href="https://wikiteq.com">WikiTeq</a>
-<br>
-* 🌱 I’m currently learning managing MediaWiki using <a href="https://docker.com">Docker</a>
-<br>
+* 💼 I'm currently working for [WikiTeq](https://wikiteq.com)
+* 🌱 I’m currently learning managing MediaWiki using [Docker](https://docker.com)
 * 🥅 2021 Goal: Write a book about MediaWiki on Serbian language
 
 <!--

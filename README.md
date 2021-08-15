@@ -35,18 +35,14 @@ I'm an MediaWiki developer and Wikipedian from Serbia.
 * 💼 I'm currently working for [WikiTeq](https://wikiteq.com)
 * 🌱 I’m currently learning managing MediaWiki using [Docker](https://docker.com)
 * 🥅 2021 Goal: Write a book about MediaWiki on Serbian language
+* 💬 Be free to ask me about anything related to MediaWiki
+* 📫 How to reach me: Email, [Wikipedia](https://en.wikipedia.org/wiki/User_talk:Kizule)
 
-<!--
-**kizule/kizule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
 
-Here are some ideas to get you started:
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</details>

@@ -42,7 +42,7 @@ I'm an MediaWiki developer and Wikipedian from Serbia.
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
 
 </details>

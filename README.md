@@ -43,14 +43,14 @@ I'm an MediaWiki developer and Wikipedian from Serbia.
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#99](https://github.com/kizule/hacktoberfest-2021/issues/99) in [kizule/hacktoberfest-2021](https://github.com/kizule/hacktoberfest-2021)
-2. 🎉 Merged PR [#107](https://github.com/kizule/hacktoberfest-2021/pull/107) in [kizule/hacktoberfest-2021](https://github.com/kizule/hacktoberfest-2021)
-3. 🎉 Merged PR [#106](https://github.com/kizule/hacktoberfest-2021/pull/106) in [kizule/hacktoberfest-2021](https://github.com/kizule/hacktoberfest-2021)
-4. 🎉 Merged PR [#105](https://github.com/kizule/hacktoberfest-2021/pull/105) in [kizule/hacktoberfest-2021](https://github.com/kizule/hacktoberfest-2021)
-5. 🎉 Merged PR [#104](https://github.com/kizule/hacktoberfest-2021/pull/104) in [kizule/hacktoberfest-2021](https://github.com/kizule/hacktoberfest-2021)
+1. 🔴 Requested 2 change(s) for [#755](https://github.com/YTVanced/VancedManager/pull/755#pullrequestreview-833359053) in [YTVanced/VancedManager](https://github.com/YTVanced/VancedManager)
+2. ✔️ Closed issue [#99](https://github.com/kizule/hacktoberfest-2021/issues/99) in [kizule/hacktoberfest-2021](https://github.com/kizule/hacktoberfest-2021)
+3. 🎉 Merged PR [#107](https://github.com/kizule/hacktoberfest-2021/pull/107) in [kizule/hacktoberfest-2021](https://github.com/kizule/hacktoberfest-2021)
+4. 🎉 Merged PR [#106](https://github.com/kizule/hacktoberfest-2021/pull/106) in [kizule/hacktoberfest-2021](https://github.com/kizule/hacktoberfest-2021)
+5. 🎉 Merged PR [#105](https://github.com/kizule/hacktoberfest-2021/pull/105) in [kizule/hacktoberfest-2021](https://github.com/kizule/hacktoberfest-2021)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, December 15th, 2021, 6:21:24 PM
+Last Updated: Thursday, December 16th, 2021, 1:00:29 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

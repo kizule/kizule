@@ -43,14 +43,14 @@ I'm an MediaWiki developer and Wikipedian from Serbia.
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#4](https://github.com/staspika/mediawiki-numberedheadings/pull/4) in [staspika/mediawiki-numberedheadings](https://github.com/staspika/mediawiki-numberedheadings)
-2. 🔱 Forked [kizule/mediawiki-numberedheadings](https://github.com/kizule/mediawiki-numberedheadings) from [staspika/mediawiki-numberedheadings](https://github.com/staspika/mediawiki-numberedheadings)
-3. 🔴 Requested 2 change(s) for [#755](https://github.com/YTVanced/VancedManager/pull/755#pullrequestreview-833359053) in [YTVanced/VancedManager](https://github.com/YTVanced/VancedManager)
-4. ✔️ Closed issue [#99](https://github.com/kizule/hacktoberfest-2021/issues/99) in [kizule/hacktoberfest-2021](https://github.com/kizule/hacktoberfest-2021)
-5. 🎉 Merged PR [#107](https://github.com/kizule/hacktoberfest-2021/pull/107) in [kizule/hacktoberfest-2021](https://github.com/kizule/hacktoberfest-2021)
+1. ❌ Closed PR [#6](https://github.com/Wikimedica/mediawiki-extensions-GetUserName/pull/6) in [Wikimedica/mediawiki-extensions-GetUserName](https://github.com/Wikimedica/mediawiki-extensions-GetUserName)
+2. 💪 Opened PR [#7](https://github.com/Wikimedica/mediawiki-extensions-GetUserName/pull/7) in [Wikimedica/mediawiki-extensions-GetUserName](https://github.com/Wikimedica/mediawiki-extensions-GetUserName)
+3. 💪 Opened PR [#6](https://github.com/Wikimedica/mediawiki-extensions-GetUserName/pull/6) in [Wikimedica/mediawiki-extensions-GetUserName](https://github.com/Wikimedica/mediawiki-extensions-GetUserName)
+4. 🔱 Forked [kizule/mediawiki-extensions-GetUserName](https://github.com/kizule/mediawiki-extensions-GetUserName) from [Wikimedica/mediawiki-extensions-GetUserName](https://github.com/Wikimedica/mediawiki-extensions-GetUserName)
+5. 💪 Opened PR [#4](https://github.com/staspika/mediawiki-numberedheadings/pull/4) in [staspika/mediawiki-numberedheadings](https://github.com/staspika/mediawiki-numberedheadings)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, January 3rd, 2022, 1:02:57 AM
+Last Updated: Monday, January 3rd, 2022, 6:22:50 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

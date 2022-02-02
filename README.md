@@ -55,7 +55,7 @@ Last Updated: Wednesday, February 2nd, 2022, 6:20:24 AM
 <h2 align="center">🐍 My Contribution Graph:</h2>
 
 <p align="center">
-  <img src="https://github.com/kizule/kizule/raw/images/github-contribution-grid-snake.svg" alt="snake">
+  <img src="https://raw.githubusercontent.com/kizule/kizule/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
 
 <h2 align="center"> 🐾 My GitHub stats:</h2>
@@ -66,7 +66,7 @@ Last Updated: Wednesday, February 2nd, 2022, 6:20:24 AM
 </p>
 
 <p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=ritik307&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=kizule&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p> 
 
 <p align="center">

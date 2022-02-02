@@ -1,11 +1,11 @@
-name: Generate Datas
+name: Update a snake
 on:
   schedule: # execute every 6 hours
     - cron: "* */6 * * *"
   workflow_dispatch:
 jobs:
   build:
-    name: Update snake
+    name: Update a snake
     runs-on: ubuntu-latest
     steps:
       # Snake Animation

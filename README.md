@@ -6,7 +6,7 @@
 
 ### 👨‍💻 Some things about me:
 
-* 💼 I'm currently working for [WikiTeq](https://wikiteq.com) and [MyWikis](https://mywikis.com)
+* 💼 I'm currently working for [MyWikis](https://mywikis.com)
 * 🌱 I’m currently learning about writing extensions and skins for [MediaWiki](https://mediawiki.org)
 * 🧩 I'm an administrator and bureaucrat on Serbian Wikipedia
 * 🥅 2022 Goal: Write a book about MediaWiki on Serbian language

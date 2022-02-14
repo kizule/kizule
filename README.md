@@ -18,14 +18,14 @@
   <summary>⚡ Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#6](https://github.com/Wikimedica/mediawiki-extensions-GetUserName/pull/6) in [Wikimedica/mediawiki-extensions-GetUserName](https://github.com/Wikimedica/mediawiki-extensions-GetUserName)
-2. 💪 Opened PR [#7](https://github.com/Wikimedica/mediawiki-extensions-GetUserName/pull/7) in [Wikimedica/mediawiki-extensions-GetUserName](https://github.com/Wikimedica/mediawiki-extensions-GetUserName)
-3. 💪 Opened PR [#6](https://github.com/Wikimedica/mediawiki-extensions-GetUserName/pull/6) in [Wikimedica/mediawiki-extensions-GetUserName](https://github.com/Wikimedica/mediawiki-extensions-GetUserName)
-4. 🔱 Forked [kizule/mediawiki-extensions-GetUserName](https://github.com/kizule/mediawiki-extensions-GetUserName) from [Wikimedica/mediawiki-extensions-GetUserName](https://github.com/Wikimedica/mediawiki-extensions-GetUserName)
-5. 💪 Opened PR [#4](https://github.com/staspika/mediawiki-numberedheadings/pull/4) in [staspika/mediawiki-numberedheadings](https://github.com/staspika/mediawiki-numberedheadings)
+1. 💪 Opened PR [#1](https://github.com/OpenDevEd/zotzen-lib/pull/1) in [OpenDevEd/zotzen-lib](https://github.com/OpenDevEd/zotzen-lib)
+2. 💪 Opened PR [#7](https://github.com/OpenDevEd/zotero-lib/pull/7) in [OpenDevEd/zotero-lib](https://github.com/OpenDevEd/zotero-lib)
+3. ❌ Closed PR [#6](https://github.com/Wikimedica/mediawiki-extensions-GetUserName/pull/6) in [Wikimedica/mediawiki-extensions-GetUserName](https://github.com/Wikimedica/mediawiki-extensions-GetUserName)
+4. 💪 Opened PR [#7](https://github.com/Wikimedica/mediawiki-extensions-GetUserName/pull/7) in [Wikimedica/mediawiki-extensions-GetUserName](https://github.com/Wikimedica/mediawiki-extensions-GetUserName)
+5. 💪 Opened PR [#6](https://github.com/Wikimedica/mediawiki-extensions-GetUserName/pull/6) in [Wikimedica/mediawiki-extensions-GetUserName](https://github.com/Wikimedica/mediawiki-extensions-GetUserName)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, February 13th, 2022, 6:19:02 PM
+Last Updated: Monday, February 14th, 2022, 1:00:21 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

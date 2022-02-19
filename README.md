@@ -18,14 +18,14 @@
   <summary>⚡ Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#1](https://github.com/OpenDevEd/zotzen-lib/pull/1) in [OpenDevEd/zotzen-lib](https://github.com/OpenDevEd/zotzen-lib)
-2. 💪 Opened PR [#7](https://github.com/OpenDevEd/zotero-lib/pull/7) in [OpenDevEd/zotero-lib](https://github.com/OpenDevEd/zotero-lib)
-3. ❌ Closed PR [#6](https://github.com/Wikimedica/mediawiki-extensions-GetUserName/pull/6) in [Wikimedica/mediawiki-extensions-GetUserName](https://github.com/Wikimedica/mediawiki-extensions-GetUserName)
-4. 💪 Opened PR [#7](https://github.com/Wikimedica/mediawiki-extensions-GetUserName/pull/7) in [Wikimedica/mediawiki-extensions-GetUserName](https://github.com/Wikimedica/mediawiki-extensions-GetUserName)
-5. 💪 Opened PR [#6](https://github.com/Wikimedica/mediawiki-extensions-GetUserName/pull/6) in [Wikimedica/mediawiki-extensions-GetUserName](https://github.com/Wikimedica/mediawiki-extensions-GetUserName)
+1. 👍 Approved [#8219](https://github.com/darkreader/darkreader/pull/8219#pullrequestreview-887952566) in [darkreader/darkreader](https://github.com/darkreader/darkreader)
+2. 💪 Opened PR [#8234](https://github.com/darkreader/darkreader/pull/8234) in [darkreader/darkreader](https://github.com/darkreader/darkreader)
+3. ❌ Closed PR [#7](https://github.com/OpenDevEd/zotero-lib/pull/7) in [OpenDevEd/zotero-lib](https://github.com/OpenDevEd/zotero-lib)
+4. 💪 Opened PR [#1](https://github.com/OpenDevEd/zotzen-lib/pull/1) in [OpenDevEd/zotzen-lib](https://github.com/OpenDevEd/zotzen-lib)
+5. 💪 Opened PR [#7](https://github.com/OpenDevEd/zotero-lib/pull/7) in [OpenDevEd/zotero-lib](https://github.com/OpenDevEd/zotero-lib)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, February 19th, 2022, 12:26:59 PM
+Last Updated: Saturday, February 19th, 2022, 6:19:35 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

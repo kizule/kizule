@@ -18,14 +18,14 @@
   <summary>⚡ Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#25](https://github.com/OpenDevEd/zotzen-web/pull/25) in [OpenDevEd/zotzen-web](https://github.com/OpenDevEd/zotzen-web)
-2. 👍 Approved [#8219](https://github.com/darkreader/darkreader/pull/8219#pullrequestreview-887952566) in [darkreader/darkreader](https://github.com/darkreader/darkreader)
-3. 💪 Opened PR [#8234](https://github.com/darkreader/darkreader/pull/8234) in [darkreader/darkreader](https://github.com/darkreader/darkreader)
-4. ❌ Closed PR [#7](https://github.com/OpenDevEd/zotero-lib/pull/7) in [OpenDevEd/zotero-lib](https://github.com/OpenDevEd/zotero-lib)
-5. 💪 Opened PR [#1](https://github.com/OpenDevEd/zotzen-lib/pull/1) in [OpenDevEd/zotzen-lib](https://github.com/OpenDevEd/zotzen-lib)
+1. 💪 Opened PR [#3](https://github.com/mywikis/HideSidebar/pull/3) in [mywikis/HideSidebar](https://github.com/mywikis/HideSidebar)
+2. 💪 Opened PR [#8433](https://github.com/darkreader/darkreader/pull/8433) in [darkreader/darkreader](https://github.com/darkreader/darkreader)
+3. 💪 Opened PR [#25](https://github.com/OpenDevEd/zotzen-web/pull/25) in [OpenDevEd/zotzen-web](https://github.com/OpenDevEd/zotzen-web)
+4. 👍 Approved [#8219](https://github.com/darkreader/darkreader/pull/8219#pullrequestreview-887952566) in [darkreader/darkreader](https://github.com/darkreader/darkreader)
+5. 💪 Opened PR [#8234](https://github.com/darkreader/darkreader/pull/8234) in [darkreader/darkreader](https://github.com/darkreader/darkreader)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, March 12th, 2022, 6:20:38 PM
+Last Updated: Sunday, March 13th, 2022, 1:09:27 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

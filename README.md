@@ -17,14 +17,14 @@
   <summary>⚡ Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#6](https://github.com/kizule/HideVariousTabsFromUnauthorizedUsers/pull/6) in [kizule/HideVariousTabsFromUnauthorizedUsers](https://github.com/kizule/HideVariousTabsFromUnauthorizedUsers)
-2. 🎉 Merged PR [#5](https://github.com/kizule/HideVariousTabsFromUnauthorizedUsers/pull/5) in [kizule/HideVariousTabsFromUnauthorizedUsers](https://github.com/kizule/HideVariousTabsFromUnauthorizedUsers)
-3. 🎉 Merged PR [#4](https://github.com/kizule/HideVariousTabsFromUnauthorizedUsers/pull/4) in [kizule/HideVariousTabsFromUnauthorizedUsers](https://github.com/kizule/HideVariousTabsFromUnauthorizedUsers)
-4. 🎉 Merged PR [#3](https://github.com/kizule/HideVariousTabsFromUnauthorizedUsers/pull/3) in [kizule/HideVariousTabsFromUnauthorizedUsers](https://github.com/kizule/HideVariousTabsFromUnauthorizedUsers)
-5. 🎉 Merged PR [#2](https://github.com/kizule/HideVariousTabsFromUnauthorizedUsers/pull/2) in [kizule/HideVariousTabsFromUnauthorizedUsers](https://github.com/kizule/HideVariousTabsFromUnauthorizedUsers)
+1. ❗️ Opened issue [#500](https://github.com/StarCitizenTools/mediawiki-skins-Citizen/issues/500) in [StarCitizenTools/mediawiki-skins-Citizen](https://github.com/StarCitizenTools/mediawiki-skins-Citizen)
+2. 🎉 Merged PR [#6](https://github.com/kizule/HideVariousTabsFromUnauthorizedUsers/pull/6) in [kizule/HideVariousTabsFromUnauthorizedUsers](https://github.com/kizule/HideVariousTabsFromUnauthorizedUsers)
+3. 🎉 Merged PR [#5](https://github.com/kizule/HideVariousTabsFromUnauthorizedUsers/pull/5) in [kizule/HideVariousTabsFromUnauthorizedUsers](https://github.com/kizule/HideVariousTabsFromUnauthorizedUsers)
+4. 🎉 Merged PR [#4](https://github.com/kizule/HideVariousTabsFromUnauthorizedUsers/pull/4) in [kizule/HideVariousTabsFromUnauthorizedUsers](https://github.com/kizule/HideVariousTabsFromUnauthorizedUsers)
+5. 🎉 Merged PR [#3](https://github.com/kizule/HideVariousTabsFromUnauthorizedUsers/pull/3) in [kizule/HideVariousTabsFromUnauthorizedUsers](https://github.com/kizule/HideVariousTabsFromUnauthorizedUsers)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, August 15th, 2022, 6:26:44 AM
+Last Updated: Monday, August 15th, 2022, 12:40:34 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

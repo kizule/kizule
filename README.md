@@ -6,7 +6,7 @@
 
 ### 👨‍💻 Some things about me:
 
-* 💼 I'm currently working for [MyWikis](https://mywikis.com)
+* 💼 I'm currently working for [MyWikis](https://mywikis.com) and [Smarter.Codes](https://smarter.codes)
 * 🌱 I’m currently learning about writing extensions and skins for [MediaWiki](https://mediawiki.org)
 * 🥅 2022 Goal: Write a book about MediaWiki on Serbian language
 * 💬 Be free to ask me about anything related to MediaWiki
@@ -71,3 +71,11 @@ Last Updated: Sunday, August 28th, 2022, 6:23:44 PM
 <p align="center">
  <img src="https://activity-graph.herokuapp.com/graph?username=kizule&theme=redical">
 </p>
+
+---
+
+### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
+<a href="https://github.com/marketplace/actions/quote-readme">
+<!--STARTS_HERE_QUOTE_README-->
+<!--ENDS_HERE_QUOTE_README-->
+</a>

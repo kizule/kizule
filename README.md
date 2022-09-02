@@ -77,7 +77,7 @@ Last Updated: Friday, September 2nd, 2022, 2:10:36 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>YouTube was founded by 3 former employees of PayPal.</i>
+• <i>The first word spoken on the internet was “lo”. It was supposed to be “login” but the computer crashed after the first two letters.</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

@@ -77,7 +77,7 @@ Last Updated: Thursday, September 8th, 2022, 2:22:05 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>According to statista, by 2023, over 50 billion devices will be connected on the internet.</i>
+• <i>“There are only two things wrong with C++:  The initial concept and the implementation.”— Bertrand Meyer   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

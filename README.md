@@ -77,7 +77,7 @@ Last Updated: Sunday, September 11th, 2022, 2:20:40 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“Java is the most distressing thing to hit computing since MS-DOS.”— Alan Kay  </i>
+• <i>In 2009, computer scientists created a system that composes a realistic picture from a simple freehand sketch, pulling photos from the internet: Sketch2Photo.</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

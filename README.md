@@ -77,7 +77,7 @@ Last Updated: Wednesday, September 14th, 2022, 2:16:03 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>A 15 year old hacked NASA computers and caused a 21-day shutdown of their computers.</i>
+• <i>“Hoaxes use weaknesses in human behavior to ensure they are replicated and distributed.  In other words, hoaxes prey on the Human Operating System.”— Stewart Kirkpatrick   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

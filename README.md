@@ -77,7 +77,7 @@ Last Updated: Friday, September 16th, 2022, 2:27:03 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“I am not out to destroy Microsoft, that would be a completely unintended side effect.”— Linus Torvalds   </i>
+• <i>“Yes, we have a dress code. You have to dress.”— Scott McNealy, co-founder of Sun Microsystems   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

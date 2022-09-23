@@ -77,7 +77,7 @@ Last Updated: Friday, September 23rd, 2022, 2:22:38 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“It was a joke, okay?  If we thought it would actually be used, we wouldn’t have written it!”— Mark Andreesen, speaking of the HTML tag BLINK      </i>
+• <i>“Real knowledge is to know the extent of one’s ignorance.”— Confucius   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

@@ -77,7 +77,7 @@ Last Updated: Saturday, September 24th, 2022, 2:22:38 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“Real knowledge is to know the extent of one’s ignorance.”— Confucius   </i>
+• <i>“Before man reaches the moon, mail will be delivered within hours from New York to California, to Britain, to India or Australia.”— Arthur Summerfield, 1959, United States Post</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

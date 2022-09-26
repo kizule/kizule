@@ -77,7 +77,7 @@ Last Updated: Monday, September 26th, 2022, 2:24:48 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“It has been discovered that C++ provides a remarkable facility for concealing the trivial details of a program — such as where its bugs are.”— David Keppel   </i>
+• <i>“If you automate a mess, you get an automated mess.”— Rod Michael   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

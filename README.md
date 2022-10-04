@@ -77,7 +77,7 @@ Last Updated: Tuesday, October 4th, 2022, 2:06:13 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“UNIX is simple.  It just takes a genius to understand its simplicity.”— Dennis Ritchie   </i>
+• <i>HP, Microsoft and Apple have one very interesting thing in common – they were all started in a garage.</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

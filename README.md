@@ -6,10 +6,10 @@
 
 ### 👨‍💻 Some things about me:
 
-* 💼 I'm currently working for [MyWikis](https://mywikis.com) and [Smarter.Codes](https://smarter.codes)
+* 💼 I'm currently working part-time for [MyWikis](https://mywikis.com)
 * 🌱 I’m currently learning about writing extensions and skins for [MediaWiki](https://mediawiki.org)
 * 🥅 2022 Goal: Write a book about MediaWiki on Serbian language
-* 💬 Be free to ask me about anything related to MediaWiki
+* 💬 Be free to ask me about anything, especially about the MediaWiki
 * 📫 How to reach me: Email, [Wikipedia](https://en.wikipedia.org/wiki/User_talk:Kizule)
 
 ---

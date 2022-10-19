@@ -77,7 +77,7 @@ Last Updated: Wednesday, October 19th, 2022, 2:19:39 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>A 15 year old hacked NASA computers and caused a 21-day shutdown of their computers.</i>
+• <i>Computers have memory or RAM, which stores items on the computer when they’re not in use. The processor stores everything your computer needs to run.</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

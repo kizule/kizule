@@ -77,7 +77,7 @@ Last Updated: Sunday, October 23rd, 2022, 2:19:46 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“Where is the ‘any’ key?”— Homer Simpson, in response to the message, “Press any key”   </i>
+• <i>YouTube was founded by 3 former employees of PayPal.</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

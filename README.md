@@ -77,7 +77,7 @@ Last Updated: Tuesday, October 25th, 2022, 2:26:42 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>A 15 year old hacked NASA computers and caused a 21-day shutdown of their computers.</i>
+• <i>“I am not out to destroy Microsoft, that would be a completely unintended side effect.”— Linus Torvalds   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

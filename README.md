@@ -77,7 +77,7 @@ Last Updated: Monday, October 31st, 2022, 2:11:48 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>Konrad Zuse is the inventor of the first programmable computer in the world. He did it in 1936 and named the computer as Z1. Konrad Zuse</i>
+• <i>The first electronic computer ENIAC weighed more than 27 tons and took up 1800 square feet.</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

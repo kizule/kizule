@@ -77,7 +77,7 @@ Last Updated: Saturday, November 5th, 2022, 1:53:08 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“Physics is the universe’s operating system.”— Steven R Garman   </i>
+• <i>“Programming can be fun, so can cryptography; however they should not be combined.”— Kreitzberg and Shneiderman  </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

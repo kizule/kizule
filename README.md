@@ -77,7 +77,7 @@ Last Updated: Monday, November 28th, 2022, 1:27:04 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“Programming can be fun, so can cryptography; however they should not be combined.”— Kreitzberg and Shneiderman  </i>
+• <i>In Windows 98, minimized windows are actually moved far away outside the average monitor’s resolution.</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

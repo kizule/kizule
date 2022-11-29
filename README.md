@@ -77,7 +77,7 @@ Last Updated: Tuesday, November 29th, 2022, 1:35:28 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>In Windows 98, minimized windows are actually moved far away outside the average monitor’s resolution.</i>
+• <i>“Good specifications will always improve programmer productivity far better than any programming tool or technique.”— Milt Bryce   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

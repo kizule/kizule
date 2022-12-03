@@ -77,7 +77,7 @@ Last Updated: Saturday, December 3rd, 2022, 1:19:51 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“Low-level programming is good for the programmer’s soul.”— John Carmack   </i>
+• <i>“It’s OK to figure out murder mysteries, but you shouldn’t need to figure out code.  You should be able to read it.”— Steve McConnell   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

@@ -77,7 +77,7 @@ Last Updated: Friday, December 16th, 2022, 1:19:08 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>TYPEWRITER is the longest word that you can write using the letters only on one row of the keyboard of your computer.</i>
+• <i>Windows 95 was the second most installed piece of software on computers in 1995, video game DOOM was first.</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

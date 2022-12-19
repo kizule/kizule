@@ -17,14 +17,14 @@
   <summary>⚡ Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#19](https://github.com/wikimedia/CommonsNotifier/pull/19) in [wikimedia/CommonsNotifier](https://github.com/wikimedia/CommonsNotifier)
-2. 🔱 Forked [kizule/CommonsNotifier](https://github.com/kizule/CommonsNotifier) from [wikimedia/CommonsNotifier](https://github.com/wikimedia/CommonsNotifier)
-3. 🎉 Merged PR [#7](https://github.com/kizule/HideVariousTabsFromUnauthorizedUsers/pull/7) in [kizule/HideVariousTabsFromUnauthorizedUsers](https://github.com/kizule/HideVariousTabsFromUnauthorizedUsers)
-4. 🔱 Forked [kizule/SemanticWikibase](https://github.com/kizule/SemanticWikibase) from [ProfessionalWiki/SemanticWikibase](https://github.com/ProfessionalWiki/SemanticWikibase)
-5. 💪 Opened PR [#2948](https://github.com/hestiacp/hestiacp/pull/2948) in [hestiacp/hestiacp](https://github.com/hestiacp/hestiacp)
+1. ❌ Closed PR [#1](https://github.com/OpenDevEd/zotzen-lib/pull/1) in [OpenDevEd/zotzen-lib](https://github.com/OpenDevEd/zotzen-lib)
+2. 💪 Opened PR [#19](https://github.com/wikimedia/CommonsNotifier/pull/19) in [wikimedia/CommonsNotifier](https://github.com/wikimedia/CommonsNotifier)
+3. 🔱 Forked [kizule/CommonsNotifier](https://github.com/kizule/CommonsNotifier) from [wikimedia/CommonsNotifier](https://github.com/wikimedia/CommonsNotifier)
+4. 🎉 Merged PR [#7](https://github.com/kizule/HideVariousTabsFromUnauthorizedUsers/pull/7) in [kizule/HideVariousTabsFromUnauthorizedUsers](https://github.com/kizule/HideVariousTabsFromUnauthorizedUsers)
+5. 🔱 Forked [kizule/SemanticWikibase](https://github.com/kizule/SemanticWikibase) from [ProfessionalWiki/SemanticWikibase](https://github.com/ProfessionalWiki/SemanticWikibase)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, December 19th, 2022, 6:20:45 AM
+Last Updated: Monday, December 19th, 2022, 12:31:30 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>

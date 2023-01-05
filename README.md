@@ -28,14 +28,6 @@ Last Updated: Thursday, January 5th, 2023, 12:32:11 PM
 
 </details>
 
-<h2 align="center">💻 My workspace:</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/amd-ryzen%20%205%203500u-%230071C5.svg?&style=for-the-badge&logo=amd&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-</p>
-
 <h2 align="center">📲 Reach me out on:</h2>
 
 <p align="center">

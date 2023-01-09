@@ -42,12 +42,6 @@ Last Updated: Monday, January 9th, 2023, 12:33:08 PM
   </a>
 </p>
 
-<h2 align="center">🐍 My Contribution Graph:</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kizule/kizule/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
-
 <h2 align="center"> 🐾 My GitHub stats:</h2>
 
 <p align="center">

@@ -62,7 +62,7 @@ Last Updated: Friday, January 20th, 2023, 1:23:19 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>Approximately 70% of virus writers are said to work under contract for organized crime syndicates.</i>
+• <i>“In the future, computers may weigh no more than 1.5 tonnes.”— Popular mechanics, 1949   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

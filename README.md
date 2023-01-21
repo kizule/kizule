@@ -12,8 +12,7 @@
 * 📫 How to reach me: [Email](mailto:zorandori4444@gmail.com), [Wikipedia](https://en.wikipedia.org/wiki/User_talk:Kizule)
 
 ---
-<details>
-  <summary>⚡ Recent GitHub Activity</summary>
+### ⚡ Recent GitHub Activity:
 
 <!--RECENT_ACTIVITY:start-->
 1. 💪 Opened PR [#40](https://github.com/Telshin/Spoilers/pull/40) in [Telshin/Spoilers](https://github.com/Telshin/Spoilers)
@@ -25,8 +24,7 @@
 <!--RECENT_ACTIVITY:last_update-->
 Last Updated: Saturday, January 21st, 2023, 12:28:55 PM
 <!--RECENT_ACTIVITY:last_update_end-->
-
-</details>
+---
 
 <h2 align="center">📲 Reach me out on:</h2>
 

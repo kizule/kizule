@@ -62,7 +62,7 @@ Last Updated: Saturday, January 21st, 2023, 1:22:06 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“In the future, computers may weigh no more than 1.5 tonnes.”— Popular mechanics, 1949   </i>
+• <i>“Low-level programming is good for the programmer’s soul.”— John Carmack   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

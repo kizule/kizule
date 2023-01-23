@@ -60,7 +60,7 @@ Last Updated: Monday, January 23rd, 2023, 1:20:47 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>The first microprocessor created by Intel was the It was designed for a calculator, and in that time nobody imagined where it would lead.</i>
+• <i>“Manually managing blocks of memory in C is like juggling bars of soap in a prison shower: It’s all fun and games until you forget about one of them.”— anonymous Usenet user   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

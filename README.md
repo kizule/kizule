@@ -60,7 +60,7 @@ Last Updated: Saturday, January 28th, 2023, 1:23:52 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>Whether you use Mozilla, Chrome Explore, please know that Mosaic was the first browser in  Just when I was born.</i>
+• <i>The woman who rented her garage to Larry Page and Sergey Brin in 1998 when they were creating Google later became the CEO of YouTube.</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

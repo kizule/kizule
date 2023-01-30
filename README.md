@@ -60,7 +60,7 @@ Last Updated: Monday, January 30th, 2023, 1:19:32 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>CAPTCHA is an acronym for “Completely Automated Public Turing test to tell Computers and Humans Apart”</i>
+• <i>“We need above all to know about changes; no one wants or needs to be reminded 16 hours a day that his shoes are on.”— David Hubel   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

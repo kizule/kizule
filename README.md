@@ -15,14 +15,14 @@
 ### ⚡ Recent GitHub Activity:
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#8](https://github.com/kizule/GoogleTranslator/pull/8) in [kizule/GoogleTranslator](https://github.com/kizule/GoogleTranslator)
-2. 🎉 Merged PR [#7](https://github.com/kizule/GoogleTranslator/pull/7) in [kizule/GoogleTranslator](https://github.com/kizule/GoogleTranslator)
-3. 🎉 Merged PR [#6](https://github.com/kizule/TopContent/pull/6) in [kizule/TopContent](https://github.com/kizule/TopContent)
-4. 🎉 Merged PR [#5](https://github.com/kizule/TopContent/pull/5) in [kizule/TopContent](https://github.com/kizule/TopContent)
-5. 🎉 Merged PR [#3](https://github.com/kizule/TopContent/pull/3) in [kizule/TopContent](https://github.com/kizule/TopContent)
+1. 🎉 Merged PR [#6](https://github.com/kizule/mediawiki-extensions-Kicksecure/pull/6) in [kizule/mediawiki-extensions-Kicksecure](https://github.com/kizule/mediawiki-extensions-Kicksecure)
+2. ❌ Closed PR [#5](https://github.com/kizule/mediawiki-extensions-Kicksecure/pull/5) in [kizule/mediawiki-extensions-Kicksecure](https://github.com/kizule/mediawiki-extensions-Kicksecure)
+3. 🎉 Merged PR [#8](https://github.com/kizule/GoogleTranslator/pull/8) in [kizule/GoogleTranslator](https://github.com/kizule/GoogleTranslator)
+4. 🎉 Merged PR [#7](https://github.com/kizule/GoogleTranslator/pull/7) in [kizule/GoogleTranslator](https://github.com/kizule/GoogleTranslator)
+5. 🎉 Merged PR [#6](https://github.com/kizule/TopContent/pull/6) in [kizule/TopContent](https://github.com/kizule/TopContent)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, January 31st, 2023, 12:31:57 PM
+Last Updated: Tuesday, January 31st, 2023, 6:20:19 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 ---
 

@@ -60,7 +60,7 @@ Last Updated: Sunday, February 5th, 2023, 1:35:48 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>The original name of Windows was Interface Manager.</i>
+• <i>“We have to stop optimizing for programmers and start optimizing for users.”— Jeff Atwood   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

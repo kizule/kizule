@@ -15,14 +15,14 @@
 ### ⚡ Recent GitHub Activity:
 
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#13](https://github.com/kizule/GoogleTranslator/pull/13) in [kizule/GoogleTranslator](https://github.com/kizule/GoogleTranslator)
-2. ❗️ Opened issue [#10728](https://github.com/darkreader/darkreader/issues/10728) in [darkreader/darkreader](https://github.com/darkreader/darkreader)
-3. 🎉 Merged PR [#6](https://github.com/kizule/mediawiki-extensions-Kicksecure/pull/6) in [kizule/mediawiki-extensions-Kicksecure](https://github.com/kizule/mediawiki-extensions-Kicksecure)
-4. ❌ Closed PR [#5](https://github.com/kizule/mediawiki-extensions-Kicksecure/pull/5) in [kizule/mediawiki-extensions-Kicksecure](https://github.com/kizule/mediawiki-extensions-Kicksecure)
-5. 🎉 Merged PR [#8](https://github.com/kizule/GoogleTranslator/pull/8) in [kizule/GoogleTranslator](https://github.com/kizule/GoogleTranslator)
+1. 💪 Opened PR [#87](https://github.com/wikimedia/eslint-plugin-mediawiki/pull/87) in [wikimedia/eslint-plugin-mediawiki](https://github.com/wikimedia/eslint-plugin-mediawiki)
+2. 🔱 Forked [kizule/eslint-plugin-mediawiki](https://github.com/kizule/eslint-plugin-mediawiki) from [wikimedia/eslint-plugin-mediawiki](https://github.com/wikimedia/eslint-plugin-mediawiki)
+3. ❌ Closed PR [#13](https://github.com/kizule/GoogleTranslator/pull/13) in [kizule/GoogleTranslator](https://github.com/kizule/GoogleTranslator)
+4. ❗️ Opened issue [#10728](https://github.com/darkreader/darkreader/issues/10728) in [darkreader/darkreader](https://github.com/darkreader/darkreader)
+5. 🎉 Merged PR [#6](https://github.com/kizule/mediawiki-extensions-Kicksecure/pull/6) in [kizule/mediawiki-extensions-Kicksecure](https://github.com/kizule/mediawiki-extensions-Kicksecure)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, February 8th, 2023, 6:21:12 PM
+Last Updated: Thursday, February 9th, 2023, 1:23:49 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 ---
 

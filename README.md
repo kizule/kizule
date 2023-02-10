@@ -22,7 +22,7 @@
 5. ❗️ Opened issue [#10728](https://github.com/darkreader/darkreader/issues/10728) in [darkreader/darkreader](https://github.com/darkreader/darkreader)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, February 10th, 2023, 12:32:20 PM
+Last Updated: Friday, February 10th, 2023, 6:21:23 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 ---
 

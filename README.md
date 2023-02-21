@@ -60,7 +60,7 @@ Last Updated: Tuesday, February 21st, 2023, 1:36:32 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“A program is never less than 90% complete, and never more than 95% complete.”— Terry Baker   </i>
+• <i>Gaming computers heat a room just as efficiently as a space heater does.</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

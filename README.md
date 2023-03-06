@@ -60,7 +60,7 @@ Last Updated: Monday, March 6th, 2023, 1:26:56 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>The first electronic computer ENIAC weighed more than 27 tons and took up 1800 square feet.</i>
+• <i>The worst breach of U.S. military computers in history happened when someone picked up a memory stick (infected by a foreign intelligence agency) they found in the parking lot and plugged it into their computer, which was attached to United States Central Command.</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

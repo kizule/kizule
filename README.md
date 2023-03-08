@@ -60,7 +60,7 @@ Last Updated: Wednesday, March 8th, 2023, 1:38:43 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“Getting information off the Internet is like taking a drink from a fire hydrant.”— Mitchell Kapor  </i>
+• <i>Around 50% of all Wikipedia vandalism is caught by a single computer program with more than 90% accuracy.</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

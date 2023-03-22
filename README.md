@@ -60,7 +60,7 @@ Last Updated: Wednesday, March 22nd, 2023, 1:17:11 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“In 2031, lawyers will be commonly a part of most development teams.”— Grady Booch   </i>
+• <i>If you open up the case of the original Macintosh, there are 47 signatures there, which are from each member of Apple’s Macintosh division in Interesting?</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

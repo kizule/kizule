@@ -60,7 +60,7 @@ Last Updated: Saturday, March 25th, 2023, 1:15:39 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>500 hours of Video are uploaded to Facebook every minute according to Forecast.</i>
+• <i>“There are only two things wrong with C++:  The initial concept and the implementation.”— Bertrand Meyer   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

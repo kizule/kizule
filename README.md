@@ -60,7 +60,7 @@ Last Updated: Wednesday, March 29th, 2023, 1:24:55 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>One of the first instances of a stored computer program was in 1801 when Joseph Marie Jacquard demonstrated a loom that wove fabrics based on hole-punched cards that were fed into the machine.</i>
+• <i>The Ultra NVidia GeForce 6800 video card was built with 222 million transistors and considered among the best todate.</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

@@ -60,7 +60,7 @@ Last Updated: Thursday, March 30th, 2023, 1:20:15 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>The Ultra NVidia GeForce 6800 video card was built with 222 million transistors and considered among the best todate.</i>
+• <i>“Programming without an overall architecture or design in mind is like exploring a cave with only a flashlight: You don’t know where you’ve been, you don’t know where you’re going, and you don’t know quite where you are.”— Danny Thorpe   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

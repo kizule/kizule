@@ -60,7 +60,7 @@ Last Updated: Monday, April 3rd, 2023, 1:13:43 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“If you automate a mess, you get an automated mess.”— Rod Michael   </i>
+• <i>The password for the computer controls of nuclear-tipped missiles of the U.S was 00000000 for eight years.</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

@@ -60,7 +60,7 @@ Last Updated: Friday, April 7th, 2023, 1:10:21 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>IBM was so powerful in 1983 that people feared that its PCjr home computer would destroy Apple, Commodore, and all other competitors. The PCjr became “one of the biggest flops in the history of computing”.</i>
+• <i>TYPEWRITER is the longest word that you can write using the letters only on one row of the keyboard of your computer.</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

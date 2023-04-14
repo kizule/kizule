@@ -60,7 +60,7 @@ Last Updated: Friday, April 14th, 2023, 1:15:33 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>No human has won a tournament standard chess game against a high spec computer since 2005.</i>
+• <i>The first bug in a computer was a dead moth found shorting a relay in the Harvard Mark II computer in 1947</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

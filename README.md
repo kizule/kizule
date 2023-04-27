@@ -60,7 +60,7 @@ Last Updated: Thursday, April 27th, 2023, 1:17:25 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“Pessimists, we’re told, look at a glass containing 50% air and 50% water and see it as half empty.  Optimists, in contrast, see it as half full.  Engineers, of course, understand the glass is twice as big as it needs to be.”— Bob Lewis   </i>
+• <i>No human has won a tournament standard chess game against a high spec computer since 2005.</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

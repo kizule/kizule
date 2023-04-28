@@ -60,7 +60,7 @@ Last Updated: Friday, April 28th, 2023, 1:17:41 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>No human has won a tournament standard chess game against a high spec computer since 2005.</i>
+• <i>elgoog.im (Google spelled backwards) is a mirrored website of Google Search with horizontally flipped search results, also known as a “Google mirror”. An unofficial elgooG website was created by All Too Flat “for fun”, which started to gain popularity in 2002</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

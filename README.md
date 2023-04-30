@@ -60,7 +60,7 @@ Last Updated: Sunday, April 30th, 2023, 1:21:21 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“Software is a gas; it expands to fill its container.”— Nathan Myhrvold  </i>
+• <i>“It is easier to change the specification to fit the program than vice versa.”— Alan Perlis   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

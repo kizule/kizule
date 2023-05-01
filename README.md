@@ -60,7 +60,7 @@ Last Updated: Monday, May 1st, 2023, 1:20:02 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“It is easier to change the specification to fit the program than vice versa.”— Alan Perlis   </i>
+• <i>The first bug in a computer was a dead moth found shorting a relay in the Harvard Mark II computer in 1947</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

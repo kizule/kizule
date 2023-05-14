@@ -60,7 +60,7 @@ Last Updated: Sunday, May 14th, 2023, 1:20:43 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“A program is never less than 90% complete, and never more than 95% complete.”— Terry Baker   </i>
+• <i>“When debugging, novices insert corrective code; experts remove defective code.”— Richard Pattis   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

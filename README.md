@@ -60,7 +60,7 @@ Last Updated: Wednesday, May 17th, 2023, 1:18:35 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“Programming can be fun, so can cryptography; however they should not be combined.”— Kreitzberg and Shneiderman  </i>
+• <i>During the production of Toy Story 2, Pixar accidentally deleted the entire movie from its servers. The movie was saved by an employee, a new mother, who worked from home and had the data saved on her personal computer.</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

@@ -60,7 +60,7 @@ Last Updated: Sunday, May 21st, 2023, 1:22:51 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“Computer viruses are an urban legend.”— Peter Norton, 1988   </i>
+• <i>“A program is never less than 90% complete, and never more than 95% complete.”— Terry Baker   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

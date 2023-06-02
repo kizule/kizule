@@ -60,7 +60,7 @@ Last Updated: Friday, June 2nd, 2023, 1:39:59 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>If you open up the case of the original Macintosh, there are 47 signatures there, which are from each member of Apple’s Macintosh division in Interesting?</i>
+• <i>“I see little commercial potential for the Internet for at least ten years.”— Bill Gates, 1994   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

@@ -60,7 +60,7 @@ Last Updated: Tuesday, June 6th, 2023, 1:40:19 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>Windows 95 was the second most installed piece of software on computers in 1995, video game DOOM was first.</i>
+• <i>The first electronic computer ENIAC weighed more than 27 tons and took up 1800 square feet.</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

@@ -60,7 +60,7 @@ Last Updated: Saturday, June 17th, 2023, 1:21:32 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>Windows doesn’t allow for creation of folders tagged CON, PRN, AUX, or NUL. These are keywords reserved by DOS.</i>
+• <i>The house where Bill Gates lives, was designed using a Macintosh computer.</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

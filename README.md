@@ -60,7 +60,7 @@ Last Updated: Tuesday, June 20th, 2023, 1:22:01 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>Whether you use Mozilla, Chrome Explore, please know that Mosaic was the first browser in  Just when I was born.</i>
+• <i>The term “World Wide Web” was invented by Tim Berners in 1990.</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

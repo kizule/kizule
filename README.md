@@ -60,7 +60,7 @@ Last Updated: Monday, June 26th, 2023, 1:47:14 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“Programs must be written for people to read, and only incidentally for machines to execute.”— Abelson and Sussman   </i>
+• <i>“There is only one problem with common sense; it’s not very common.”— Milt Bryce   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

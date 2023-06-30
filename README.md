@@ -60,7 +60,7 @@ Last Updated: Friday, June 30th, 2023, 1:38:54 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“The most likely way for the world to be destroyed, most experts agree, is by accident.  That’s where we come in; we’re computer professionals.  We cause accidents.”— Nathaniel Borenstein   </i>
+• <i>“Standards are always out of date.  That’s what makes them standards.”— Alan Bennett   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

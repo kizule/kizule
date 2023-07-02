@@ -60,7 +60,7 @@ Last Updated: Sunday, July 2nd, 2023, 1:49:24 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“The best way to predict the future is to implement it.”— David Heinemeier Hansson   </i>
+• <i>HDMI charges its licensed manufacturers $10,000 per year plus $0.15 per cable, reduced to $0.05 if the HDMI logo is on the socket.</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

@@ -60,7 +60,7 @@ Last Updated: Sunday, July 9th, 2023, 1:51:04 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>Mircosoft included Solitaire in their operating systems “to soothe people intimidated by the operating system” and introduce users to graphic user interfaces and taught them how to use a mouse.</i>
+• <i>“Today, most software exists, not to solve a problem, but to interface with other software.”— IO Angell   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

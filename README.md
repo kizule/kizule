@@ -60,7 +60,7 @@ Last Updated: Friday, July 21st, 2023, 1:21:58 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>Russians made a computer that ran on water in the mid of 1936.</i>
+• <i>“When debugging, novices insert corrective code; experts remove defective code.”— Richard Pattis   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

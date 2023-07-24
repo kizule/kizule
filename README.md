@@ -60,7 +60,7 @@ Last Updated: Monday, July 24th, 2023, 1:21:28 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“There are only two things wrong with C++:  The initial concept and the implementation.”— Bertrand Meyer   </i>
+• <i>“If the code and the comments do not match, possibly both are incorrect.”— Norm Schryer   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

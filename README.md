@@ -60,7 +60,7 @@ Last Updated: Thursday, August 10th, 2023, 1:16:52 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“In a room full of top software designers, if two agree on the same thing, that’s a majority.”— Bill Curtis   </i>
+• <i>“If people never did silly things, nothing intelligent would ever get done.”— Ludwig Wittgenstein   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

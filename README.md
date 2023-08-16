@@ -60,7 +60,7 @@ Last Updated: Wednesday, August 16th, 2023, 1:02:14 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>When you’re all grown up and working and you use a computer each day, your hands would have traveled 12.6 miles (about 20km) per day!</i>
+• <i>More than 80% of the emails sent daily are spams.</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

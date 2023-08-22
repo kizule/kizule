@@ -60,7 +60,7 @@ Last Updated: Tuesday, August 22nd, 2023, 1:03:22 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“Today, most software exists, not to solve a problem, but to interface with other software.”— IO Angell   </i>
+• <i>Amazon was a hard cover book seller, but actually now sells more e-books than hard covers</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

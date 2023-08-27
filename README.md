@@ -60,7 +60,7 @@ Last Updated: Sunday, August 27th, 2023, 1:06:55 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“The more you know, the more you realize you know nothing.”— Socrates   </i>
+• <i>There was a time when AMD and Intel CPUs used the same socket (Socket 7) and could run on the same motherboard.</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

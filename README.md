@@ -60,7 +60,7 @@ Last Updated: Wednesday, August 30th, 2023, 1:03:54 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>The woman who rented her garage to Larry Page and Sergey Brin in 1998 when they were creating Google later became the CEO of YouTube.</i>
+• <i>“The problem of viruses is temporary and will be solved in two years.”— John McAfee, 1988  </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

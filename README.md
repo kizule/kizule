@@ -60,7 +60,7 @@ Last Updated: Friday, September 1st, 2023, 1:08:23 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>The first Apple computer ever made by Steve Jobs and Steve Wozniak was made from old parts they collected for free from their staff!</i>
+• <i>“Commenting your code is like cleaning your bathroom — you never want to do it, but it really does create a more pleasant experience for you and your guests.”— Ryan Campbell  </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

@@ -60,7 +60,7 @@ Last Updated: Sunday, September 24th, 2023, 1:08:29 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>CPU manufacturing is so unpredictable that every chip must be tested since the majority of finished chips are defective. Those that survive are assigned a model number and price reflecting their maximum safe performance.</i>
+• <i>“The best way to get accurate information on Usenet is to post something wrong and wait for corrections.”— Matthew Austern   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

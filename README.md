@@ -60,7 +60,7 @@ Last Updated: Tuesday, October 3rd, 2023, 1:05:54 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“In a software project team of 10, there are probably 3 people who produce enough defects to make them net negative producers.”— Gordon Schulmeyer   </i>
+• <i>CAPTCHA is an acronym for “Completely Automated Public Turing test to tell Computers and Humans Apart”</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

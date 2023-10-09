@@ -60,7 +60,7 @@ Last Updated: Monday, October 9th, 2023, 1:05:26 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“Program testing can be a very effective way to show the presence of bugs, but is hopelessly inadequate for showing their absence.”— Edsger Dijkstra   </i>
+• <i>Amazon was a hard cover book seller, but actually now sells more e-books than hard covers</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

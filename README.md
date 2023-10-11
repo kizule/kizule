@@ -60,7 +60,7 @@ Last Updated: Wednesday, October 11th, 2023, 1:05:11 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>The US Federal Register is still using floppy disks sent by courier because a secure e-mail system is “too expensive”.</i>
+• <i>The first ever hard disk drive was made in 1979, and could hold only 5MB of data.</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

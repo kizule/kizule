@@ -60,7 +60,7 @@ Last Updated: Monday, October 16th, 2023, 1:06:57 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>The US Federal Register is still using floppy disks sent by courier because a secure e-mail system is “too expensive”.</i>
+• <i>“Computers are good at following instructions, but not at reading your mind.”— Donald Knuth   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

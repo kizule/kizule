@@ -60,7 +60,7 @@ Last Updated: Friday, October 20th, 2023, 1:05:35 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“Programming can be fun, so can cryptography; however they should not be combined.”— Kreitzberg and Shneiderman  </i>
+• <i>“Software is a gas; it expands to fill its container.”— Nathan Myhrvold  </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

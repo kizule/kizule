@@ -60,7 +60,7 @@ Last Updated: Saturday, October 21st, 2023, 1:03:35 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“Software is a gas; it expands to fill its container.”— Nathan Myhrvold  </i>
+• <i>Doug Engelbart invented the first computer mouse in around 1964 which was made of wood.</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

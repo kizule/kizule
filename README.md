@@ -60,7 +60,7 @@ Last Updated: Sunday, October 22nd, 2023, 1:10:06 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>Doug Engelbart invented the first computer mouse in around 1964 which was made of wood.</i>
+• <i>4004 was the name given to the first microprocessor by Intel.</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

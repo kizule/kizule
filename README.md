@@ -60,7 +60,7 @@ Last Updated: Friday, October 27th, 2023, 1:04:27 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“It is easier to change the specification to fit the program than vice versa.”— Alan Perlis   </i>
+• <i>Konrad Zuse is the inventor of the first programmable computer in the world. He did it in 1936 and named the computer as Z1. Konrad Zuse</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

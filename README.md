@@ -15,14 +15,14 @@
 ### ⚡ Recent GitHub Activity:
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#64](https://github.com/SemanticMediaWiki/SemanticCompoundQueries/pull/64#issuecomment-1783866654) in [SemanticMediaWiki/SemanticCompoundQueries](https://github.com/SemanticMediaWiki/SemanticCompoundQueries)<br>
-2. 💪 Opened PR [#5548](https://github.com/SemanticMediaWiki/SemanticMediaWiki/pull/5548) in [SemanticMediaWiki/SemanticMediaWiki](https://github.com/SemanticMediaWiki/SemanticMediaWiki)<br>
-3. ⬆️ Pushed 1 commit(s) to [kizule/SemanticMediaWiki](https://github.com/kizule/SemanticMediaWiki)<br>
-4. 🔱 Forked [kizule/SemanticMediaWiki](https://github.com/kizule/SemanticMediaWiki) from [SemanticMediaWiki/SemanticMediaWiki](https://github.com/SemanticMediaWiki/SemanticMediaWiki)<br>
-5. 💪 Opened PR [#64](https://github.com/SemanticMediaWiki/SemanticCompoundQueries/pull/64) in [SemanticMediaWiki/SemanticCompoundQueries](https://github.com/SemanticMediaWiki/SemanticCompoundQueries)<br>
+1. 💪 Opened PR [#11906](https://github.com/darkreader/darkreader/pull/11906) in [darkreader/darkreader](https://github.com/darkreader/darkreader)<br>
+2. 💬 Commented on [#11900](https://github.com/darkreader/darkreader/pull/11900#issuecomment-1809099493) in [darkreader/darkreader](https://github.com/darkreader/darkreader)<br>
+3. 💬 Commented on [#64](https://github.com/SemanticMediaWiki/SemanticCompoundQueries/pull/64#issuecomment-1783866654) in [SemanticMediaWiki/SemanticCompoundQueries](https://github.com/SemanticMediaWiki/SemanticCompoundQueries)<br>
+4. 💪 Opened PR [#5548](https://github.com/SemanticMediaWiki/SemanticMediaWiki/pull/5548) in [SemanticMediaWiki/SemanticMediaWiki](https://github.com/SemanticMediaWiki/SemanticMediaWiki)<br>
+5. ⬆️ Pushed 1 commit(s) to [kizule/SemanticMediaWiki](https://github.com/kizule/SemanticMediaWiki)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, November 13th, 2023, 6:19:07 PM
+Last Updated: Tuesday, November 14th, 2023, 1:06:54 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 ---
 

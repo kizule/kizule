@@ -60,7 +60,7 @@ Last Updated: Thursday, November 16th, 2023, 1:09:23 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>An Apple laptop stinks. One 2001 iBook model used a glue that, after 12-18 months, may begin to smell like human body odor. It is so strong that repairs are difficult because the smell makes people nauseous.</i>
+• <i>“Tell me and I forget.  Teach me and I remember.  Involve me and I learn.”— Benjamin Franklin   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

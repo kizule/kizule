@@ -60,7 +60,7 @@ Last Updated: Friday, November 17th, 2023, 1:09:07 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“Tell me and I forget.  Teach me and I remember.  Involve me and I learn.”— Benjamin Franklin   </i>
+• <i>HP, Microsoft and Apple have one very interesting thing in common – they were all started in a garage.</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

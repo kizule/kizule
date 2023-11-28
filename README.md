@@ -15,14 +15,14 @@
 ### ⚡ Recent GitHub Activity:
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#23](https://github.com/kizule/mediawiki-extensions-Kicksecure/pull/23#issuecomment-1823293674) in [kizule/mediawiki-extensions-Kicksecure](https://github.com/kizule/mediawiki-extensions-Kicksecure)<br>
-2. 💬 Commented on [#18](https://github.com/kizule/TopContent/pull/18#issuecomment-1823254928) in [kizule/TopContent](https://github.com/kizule/TopContent)<br>
-3. 💬 Commented on [#28](https://github.com/kizule/GoogleTranslator/pull/28#issuecomment-1823083172) in [kizule/GoogleTranslator](https://github.com/kizule/GoogleTranslator)<br>
-4. 💬 Commented on [#19](https://github.com/kizule/HideVariousTabsFromUnauthorizedUsers/pull/19#issuecomment-1822469724) in [kizule/HideVariousTabsFromUnauthorizedUsers](https://github.com/kizule/HideVariousTabsFromUnauthorizedUsers)<br>
-5. 💬 Commented on [#11900](https://github.com/darkreader/darkreader/pull/11900#issuecomment-1820732055) in [darkreader/darkreader](https://github.com/darkreader/darkreader)<br>
+1. 🔱 Forked [kizule/SemanticResultFormats](https://github.com/kizule/SemanticResultFormats) from [SemanticMediaWiki/SemanticResultFormats](https://github.com/SemanticMediaWiki/SemanticResultFormats)<br>
+2. 💬 Commented on [#120](https://github.com/SemanticMediaWiki/SemanticCite/pull/120#issuecomment-1828897634) in [SemanticMediaWiki/SemanticCite](https://github.com/SemanticMediaWiki/SemanticCite)<br>
+3. 💪 Opened PR [#120](https://github.com/SemanticMediaWiki/SemanticCite/pull/120) in [SemanticMediaWiki/SemanticCite](https://github.com/SemanticMediaWiki/SemanticCite)<br>
+4. ⬆️ Pushed 1 commit(s) to [kizule/SemanticCite](https://github.com/kizule/SemanticCite)<br>
+5. ⬆️ Pushed 2 commit(s) to [kizule/SemanticCite](https://github.com/kizule/SemanticCite)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, November 27th, 2023, 6:19:22 PM
+Last Updated: Tuesday, November 28th, 2023, 1:09:48 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 ---
 

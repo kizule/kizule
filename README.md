@@ -15,14 +15,14 @@
 ### ⚡ Recent GitHub Activity:
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#121](https://github.com/SemanticMediaWiki/SemanticCite/pull/121) in [SemanticMediaWiki/SemanticCite](https://github.com/SemanticMediaWiki/SemanticCite)<br>
+1. 💬 Commented on [#122](https://github.com/SemanticMediaWiki/SemanticCite/pull/122#issuecomment-1829647486) in [SemanticMediaWiki/SemanticCite](https://github.com/SemanticMediaWiki/SemanticCite)<br>
 2. ⬆️ Pushed 1 commit(s) to [kizule/SemanticCite](https://github.com/kizule/SemanticCite)<br>
-3. 💬 Commented on [#120](https://github.com/SemanticMediaWiki/SemanticCite/pull/120#issuecomment-1828902582) in [SemanticMediaWiki/SemanticCite](https://github.com/SemanticMediaWiki/SemanticCite)<br>
-4. 💪 Opened PR [#798](https://github.com/SemanticMediaWiki/SemanticResultFormats/pull/798) in [SemanticMediaWiki/SemanticResultFormats](https://github.com/SemanticMediaWiki/SemanticResultFormats)<br>
-5. ⬆️ Pushed 1 commit(s) to [kizule/SemanticResultFormats](https://github.com/kizule/SemanticResultFormats)<br>
+3. 💬 Commented on [#122](https://github.com/SemanticMediaWiki/SemanticCite/pull/122#issuecomment-1829573983) in [SemanticMediaWiki/SemanticCite](https://github.com/SemanticMediaWiki/SemanticCite)<br>
+4. 💪 Opened PR [#122](https://github.com/SemanticMediaWiki/SemanticCite/pull/122) in [SemanticMediaWiki/SemanticCite](https://github.com/SemanticMediaWiki/SemanticCite)<br>
+5. ⬆️ Pushed 1 commit(s) to [kizule/SemanticCite](https://github.com/kizule/SemanticCite)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, November 28th, 2023, 6:20:10 AM
+Last Updated: Tuesday, November 28th, 2023, 12:29:37 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 ---
 

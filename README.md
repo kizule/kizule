@@ -60,7 +60,7 @@ Last Updated: Thursday, November 30th, 2023, 1:08:57 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>There is a website called “The Useless Web” . This is the last treatment for your boredom. If you ever feel bored please visit.</i>
+• <i>IBM 5120 from 1980 was the heaviest desktop computer ever made. It weighed about 105 pounds, not including the 130 pounds external floppy drive.</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

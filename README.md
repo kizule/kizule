@@ -15,14 +15,14 @@
 ### ⚡ Recent GitHub Activity:
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#122](https://github.com/SemanticMediaWiki/SemanticCite/pull/122#issuecomment-1829647486) in [SemanticMediaWiki/SemanticCite](https://github.com/SemanticMediaWiki/SemanticCite)<br>
-2. ⬆️ Pushed 1 commit(s) to [kizule/SemanticCite](https://github.com/kizule/SemanticCite)<br>
-3. 💬 Commented on [#122](https://github.com/SemanticMediaWiki/SemanticCite/pull/122#issuecomment-1829573983) in [SemanticMediaWiki/SemanticCite](https://github.com/SemanticMediaWiki/SemanticCite)<br>
-4. 💪 Opened PR [#122](https://github.com/SemanticMediaWiki/SemanticCite/pull/122) in [SemanticMediaWiki/SemanticCite](https://github.com/SemanticMediaWiki/SemanticCite)<br>
-5. ⬆️ Pushed 1 commit(s) to [kizule/SemanticCite](https://github.com/kizule/SemanticCite)<br>
+1. 💬 Commented on [#75](https://github.com/StarCitizenWiki/mediawiki-extensions-EmbedVideo/issues/75#issuecomment-1836161266) in [StarCitizenWiki/mediawiki-extensions-EmbedVideo](https://github.com/StarCitizenWiki/mediawiki-extensions-EmbedVideo)<br>
+2. ❗️ Opened issue [#75](https://github.com/StarCitizenWiki/mediawiki-extensions-EmbedVideo/issues/75) in [StarCitizenWiki/mediawiki-extensions-EmbedVideo](https://github.com/StarCitizenWiki/mediawiki-extensions-EmbedVideo)<br>
+3. 💬 Commented on [#122](https://github.com/SemanticMediaWiki/SemanticCite/pull/122#issuecomment-1829647486) in [SemanticMediaWiki/SemanticCite](https://github.com/SemanticMediaWiki/SemanticCite)<br>
+4. ⬆️ Pushed 1 commit(s) to [kizule/SemanticCite](https://github.com/kizule/SemanticCite)<br>
+5. 💬 Commented on [#122](https://github.com/SemanticMediaWiki/SemanticCite/pull/122#issuecomment-1829573983) in [SemanticMediaWiki/SemanticCite](https://github.com/SemanticMediaWiki/SemanticCite)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, December 1st, 2023, 12:29:38 PM
+Last Updated: Friday, December 1st, 2023, 6:19:16 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 ---
 

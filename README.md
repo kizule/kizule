@@ -60,7 +60,7 @@ Last Updated: Monday, December 18th, 2023, 1:10:17 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>There are over 1.5 billion instant messaging id’s in the world over.</i>
+• <i>“The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge.”— Stephen Hawking   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

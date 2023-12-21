@@ -60,7 +60,7 @@ Last Updated: Thursday, December 21st, 2023, 1:07:55 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“Code generation, like drinking alcohol, is good in moderation.”— Alex Lowe   </i>
+• <i>Konrad Zuse is the inventor of the first programmable computer in the world. He did it in 1936 and named the computer as Z1. Konrad Zuse</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

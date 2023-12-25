@@ -60,7 +60,7 @@ Last Updated: Monday, December 25th, 2023, 1:09:12 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>The microcontroller inside a MacBook charger is about as powerful as the original Macintosh computer.</i>
+• <i>“Manually managing blocks of memory in C is like juggling bars of soap in a prison shower: It’s all fun and games until you forget about one of them.”— anonymous Usenet user   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

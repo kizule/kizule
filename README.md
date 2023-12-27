@@ -60,7 +60,7 @@ Last Updated: Wednesday, December 27th, 2023, 1:06:41 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“Today, most software exists, not to solve a problem, but to interface with other software.”— IO Angell   </i>
+• <i>Only about 10% of the world’s currency is physical money, the rest only exists on computers.</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

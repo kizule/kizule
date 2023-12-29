@@ -60,7 +60,7 @@ Last Updated: Friday, December 29th, 2023, 12:57:57 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>Gaming computers heat a room just as efficiently as a space heater does.</i>
+• <i>“I think it’s a new feature.  Don’t tell anyone it was an accident.”— Larry Wall   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

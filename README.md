@@ -60,7 +60,7 @@ Last Updated: Monday, January 1st, 2024, 1:14:45 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>The Space Shuttle never flew on new year’s day or eve because its computers couldn’t handle a year rollover.</i>
+• <i>“The more you know, the more you realize you know nothing.”— Socrates   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

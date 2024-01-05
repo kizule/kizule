@@ -60,7 +60,7 @@ Last Updated: Friday, January 5th, 2024, 1:09:07 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>The very first computer was an abacus invested 500 B.C in Babylon made of string and beads whose main purpose was to count.</i>
+• <i>“Yes, we have a dress code. You have to dress.”— Scott McNealy, co-founder of Sun Microsystems   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

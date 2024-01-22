@@ -60,7 +60,7 @@ Last Updated: Monday, January 22nd, 2024, 1:13:36 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>No human has won a tournament standard chess game against a high spec computer since 2005.</i>
+• <i>“All parts should go together without forcing.  You must remember that the parts you are reassembling were disassembled by you.  Therefore, if you can’t get them together again, there must be a reason.  By all means, do not use a hammer.”— IBM Manual, 1925  </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

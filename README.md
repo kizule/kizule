@@ -60,7 +60,7 @@ Last Updated: Sunday, January 28th, 2024, 1:09:53 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>The original name of Windows was Interface Manager.</i>
+• <i>Apple’s first computer, the Apple I, went on sale in 1976 for $666.66 because Steve Wozniak liked repeating digits and found them easier to type. He said he was unaware of any Satanic connotations with the number.</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

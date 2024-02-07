@@ -15,14 +15,14 @@
 ### ⚡ Recent GitHub Activity:
 
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#1](https://github.com/kizule/hestiacp/pull/1) in [kizule/hestiacp](https://github.com/kizule/hestiacp)<br>
-2. 💬 Commented on [#1](https://github.com/kizule/hestiacp/pull/1#issuecomment-1929977696) in [kizule/hestiacp](https://github.com/kizule/hestiacp)<br>
-3. 💪 Opened PR [#4285](https://github.com/hestiacp/hestiacp/pull/4285) in [hestiacp/hestiacp](https://github.com/hestiacp/hestiacp)<br>
-4. ⬆️ Pushed 1 commit(s) to [kizule/hestiacp](https://github.com/kizule/hestiacp)<br>
-5. 💬 Commented on [#1](https://github.com/kizule/hestiacp/pull/1#issuecomment-1929954667) in [kizule/hestiacp](https://github.com/kizule/hestiacp)<br>
+1. ⬆️ Pushed 0 commit(s) to [kizule/SemanticCite](https://github.com/kizule/SemanticCite)<br>
+2. 💬 Commented on [#122](https://github.com/SemanticMediaWiki/SemanticCite/pull/122#issuecomment-1931537345) in [SemanticMediaWiki/SemanticCite](https://github.com/SemanticMediaWiki/SemanticCite)<br>
+3. ❌ Closed PR [#122](https://github.com/SemanticMediaWiki/SemanticCite/pull/122) in [SemanticMediaWiki/SemanticCite](https://github.com/SemanticMediaWiki/SemanticCite)<br>
+4. ⬆️ Pushed 3 commit(s) to [kizule/SemanticCite](https://github.com/kizule/SemanticCite)<br>
+5. ❌ Closed PR [#1](https://github.com/kizule/hestiacp/pull/1) in [kizule/hestiacp](https://github.com/kizule/hestiacp)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, February 7th, 2024, 6:18:32 AM
+Last Updated: Wednesday, February 7th, 2024, 12:26:21 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 ---
 

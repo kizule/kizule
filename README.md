@@ -60,7 +60,7 @@ Last Updated: Wednesday, February 7th, 2024, 1:03:15 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>During IBM Watson’s Jeopardy Game, it stored all 15 terabytes of its knowledge in RAM, including every page of Wikipedia in existence.</i>
+• <i>“I don’t know what the language of the year 2000 will look like, but I know it will be called Fortran.”— CA Hoare, 1982  </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

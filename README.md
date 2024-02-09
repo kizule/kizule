@@ -7,7 +7,7 @@
 ### 👨‍💻 Some things about me:
 
 * 💼 I'm currently working part-time for [MyWikis](https://mywikis.com)
-* 🥅 2023 Goal: Write a book about MediaWiki on Serbian language
+* 🥅 2023 Goal: Write a book about MediaWiki in Serbian language
 * 💬 Be free to ask me about anything, especially about the MediaWiki
 * 📫 How to reach me: [Email](mailto:zorandori4444@gmail.com), [Wikipedia](https://en.wikipedia.org/wiki/User_talk:Kizule)
 
@@ -49,10 +49,6 @@ Last Updated: Friday, February 9th, 2024, 6:18:09 PM
 
 <p align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kizule&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
-</p> 
-
-<p align="center">
- <img src="https://activity-graph.herokuapp.com/graph?username=kizule&theme=redical">
 </p>
 
 ---

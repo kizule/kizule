@@ -60,7 +60,7 @@ Last Updated: Friday, February 9th, 2024, 1:04:17 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“Java is the most distressing thing to hit computing since MS-DOS.”— Alan Kay  </i>
+• <i>Only 2 out of the top 500 supercomputers run on Windows, and 485 are Linux.</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

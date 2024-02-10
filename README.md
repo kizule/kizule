@@ -56,7 +56,7 @@ Last Updated: Saturday, February 10th, 2024, 1:03:04 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>Only 2 out of the top 500 supercomputers run on Windows, and 485 are Linux.</i>
+• <i>“Your most unhappy customers are your greatest source of learning.”— Bill Gates   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

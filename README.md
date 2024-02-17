@@ -56,7 +56,7 @@ Last Updated: Saturday, February 17th, 2024, 1:04:12 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>E-Mail was invented before Internet. Shocked!!!! ” I also got shocked after hearing this.”</i>
+• <i>“In the future, computers may weigh no more than 1.5 tonnes.”— Popular mechanics, 1949   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

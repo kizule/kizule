@@ -56,7 +56,7 @@ Last Updated: Friday, February 23rd, 2024, 1:03:35 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>Tandy TRS-80 Model I computer radiated so much interference that many games were designed so that an AM radio next to the computer could be used to provide sounds.</i>
+• <i>“Getting information off the Internet is like taking a drink from a fire hydrant.”— Mitchell Kapor  </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

@@ -56,7 +56,7 @@ Last Updated: Friday, March 1st, 2024, 1:10:30 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“Two years from now, spam will be solved.”— Bill Gates, 2004   </i>
+• <i>“When you are stuck in a traffic jam with a Porsche, all you do is burn more gas in idle.  Scalability is about building wider roads, not about building faster cars.”— Steve Swartz   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

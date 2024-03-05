@@ -56,7 +56,7 @@ Last Updated: Tuesday, March 5th, 2024, 1:04:15 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>In 2010, a high school named Lower Merion School District in Pennsylvania issued a MacBook to each of its 2,306 students, then remotely activated the webcams to spy on the students at home.</i>
+• <i>“On two occasions I have been asked, ‘If you put into the machine wrong figures, will the right answers come out?’  I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question.”— Charles Babbage   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

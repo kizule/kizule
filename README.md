@@ -56,7 +56,7 @@ Last Updated: Friday, March 8th, 2024, 1:04:26 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>YouTube was founded by 3 former employees of PayPal.</i>
+• <i>Tandy TRS-80 Model I computer radiated so much interference that many games were designed so that an AM radio next to the computer could be used to provide sounds.</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

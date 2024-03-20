@@ -56,7 +56,7 @@ Last Updated: Wednesday, March 20th, 2024, 1:04:31 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>As computers run, they get hot. Computers have fans to keep them cool.</i>
+• <i>Whether you use Mozilla, Chrome Explore, please know that Mosaic was the first browser in  Just when I was born.</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

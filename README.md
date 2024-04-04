@@ -56,7 +56,7 @@ Last Updated: Thursday, April 4th, 2024, 1:07:05 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>In Windows 98, minimized windows are actually moved far away outside the average monitor’s resolution.</i>
+• <i>“In a software project team of 10, there are probably 3 people who produce enough defects to make them net negative producers.”— Gordon Schulmeyer   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

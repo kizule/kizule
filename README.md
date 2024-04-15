@@ -56,7 +56,7 @@ Last Updated: Monday, April 15th, 2024, 3:26:18 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>2012 was the year a hacker group took down Pope John’s website because a food company spent over two hours to deliver as expected. The hacker group was called UGNazi.</i>
+• <i>“Computer Science is no more about computers than astronomy is about telescopes.”— Edsger W. Dijkstra  </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

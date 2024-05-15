@@ -56,7 +56,7 @@ Last Updated: Wednesday, May 15th, 2024, 1:10:34 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>In 2005, Sony illegally installed rootkits on 22 million computers to prevent the users from ripping copyrighted music, and could not be uninstalled. It also reported user’s listening habits back to Sony. Ironically, the code itself contained open source software, and so infringed copyright.</i>
+• <i>YouTube was founded by 3 former employees of PayPal.</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

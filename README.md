@@ -56,7 +56,7 @@ Last Updated: Thursday, May 16th, 2024, 1:10:20 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>YouTube was founded by 3 former employees of PayPal.</i>
+• <i>“XML is not a language in the sense of a programming language any more than sketches on a napkin are a language.”— Charles Simonyi   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

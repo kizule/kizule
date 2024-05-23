@@ -56,7 +56,7 @@ Last Updated: Thursday, May 23rd, 2024, 1:10:13 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>The original Halo was 3rd person and designed for Mac. In 2000 Microsoft bought Bungie and made it an exclusive for the original Xbox.</i>
+• <i>In 2009, computer scientists created a system that composes a realistic picture from a simple freehand sketch, pulling photos from the internet: Sketch2Photo.</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

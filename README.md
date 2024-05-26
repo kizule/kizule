@@ -56,7 +56,7 @@ Last Updated: Sunday, May 26th, 2024, 1:16:03 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>Sony released a kit that allows PS2s (Linux for PlayStation 2) to be used as a personal computer.</i>
+• <i>TYPEWRITER is the longest word that you can write using the letters only on one row of the keyboard of your computer.</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

@@ -56,7 +56,7 @@ Last Updated: Friday, June 7th, 2024, 1:14:35 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“There are only two things wrong with C++:  The initial concept and the implementation.”— Bertrand Meyer   </i>
+• <i>In Windows 98, minimized windows are actually moved far away outside the average monitor’s resolution.</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

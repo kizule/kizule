@@ -56,7 +56,7 @@ Last Updated: Friday, June 14th, 2024, 1:13:06 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>A professional typist types fast and types great amount of words daily. If we measure this as distance, than it will become 12.6 miles a day for the fingers of the typist to cover each day.</i>
+• <i>The first ever hard disk drive was made in 1979, and could hold only 5MB of data.</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

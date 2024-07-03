@@ -56,7 +56,7 @@ Last Updated: Wednesday, July 3rd, 2024, 1:14:02 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>A 15 year old hacked NASA computers and caused a 21-day shutdown of their computers.</i>
+• <i>“The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge.”— Stephen Hawking   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

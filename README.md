@@ -56,7 +56,7 @@ Last Updated: Saturday, July 6th, 2024, 1:12:28 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>The Ultra NVidia GeForce 6800 video card was built with 222 million transistors and considered among the best todate.</i>
+• <i>“Commenting your code is like cleaning your bathroom — you never want to do it, but it really does create a more pleasant experience for you and your guests.”— Ryan Campbell  </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

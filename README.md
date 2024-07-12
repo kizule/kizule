@@ -56,7 +56,7 @@ Last Updated: Friday, July 12th, 2024, 1:14:33 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“I see little commercial potential for the Internet for at least ten years.”— Bill Gates, 1994   </i>
+• <i>“Simplicity, carried to the extreme, becomes elegance.”— Jon Franklin   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

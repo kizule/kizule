@@ -56,7 +56,7 @@ Last Updated: Thursday, July 18th, 2024, 1:14:46 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“Passwords are like underwear: you don’t let people see it, you should change it very often, and you shouldn’t share it with strangers.”— Chris Pirillo   </i>
+• <i>“Perl: The only language that looks the same before and after RSA encryption.”— Keith Bostic   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

@@ -56,7 +56,7 @@ Last Updated: Thursday, August 1st, 2024, 1:22:51 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>A 15 year old hacked NASA computers and caused a 21-day shutdown of their computers.</i>
+• <i>“In the future, computers may weigh no more than 1.5 tonnes.”— Popular mechanics, 1949   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

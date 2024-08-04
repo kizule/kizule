@@ -56,7 +56,7 @@ Last Updated: Sunday, August 4th, 2024, 1:22:04 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>Hard disks are so sensitive to vibration, that just screaming at them diminishes their performance.</i>
+• <i>“Less than 10% of the code has to do with the ostensible purpose of the system; the rest deals with input-output, data validation, data structure maintenance, and other housekeeping.”— Mary Shaw   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

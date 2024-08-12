@@ -56,7 +56,7 @@ Last Updated: Monday, August 12th, 2024, 1:19:25 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“We have to stop optimizing for programmers and start optimizing for users.”— Jeff Atwood   </i>
+• <i>More than 80% of the emails sent daily are spams.</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

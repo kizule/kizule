@@ -56,7 +56,7 @@ Last Updated: Thursday, August 15th, 2024, 1:13:52 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“Today, most software exists, not to solve a problem, but to interface with other software.”— IO Angell   </i>
+• <i>“Where is the ‘any’ key?”— Homer Simpson, in response to the message, “Press any key”   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

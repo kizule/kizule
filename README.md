@@ -56,7 +56,7 @@ Last Updated: Friday, August 23rd, 2024, 1:18:00 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>Around 50% of all Wikipedia vandalism is caught by a single computer program with more than 90% accuracy.</i>
+• <i>The first-ever registered domain name was Symbolics.com for free.</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

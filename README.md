@@ -56,7 +56,7 @@ Last Updated: Saturday, August 24th, 2024, 1:16:28 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>The first-ever registered domain name was Symbolics.com for free.</i>
+• <i>“I’m not one of those who think Bill Gates is the devil.  I simply suspect that if Microsoft ever met up with the devil, it wouldn’t need an interpreter.”— Nicholas Petreley   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

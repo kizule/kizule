@@ -56,7 +56,7 @@ Last Updated: Tuesday, August 27th, 2024, 1:19:30 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“A computer once beat me at chess, but it was no match for me at kick boxing.”— Emo Philips  </i>
+• <i>“Good specifications will always improve programmer productivity far better than any programming tool or technique.”— Milt Bryce   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

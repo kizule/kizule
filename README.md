@@ -56,7 +56,7 @@ Last Updated: Wednesday, August 28th, 2024, 1:19:59 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“Good specifications will always improve programmer productivity far better than any programming tool or technique.”— Milt Bryce   </i>
+• <i>Amazon was a hard cover book seller, but actually now sells more e-books than hard covers</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

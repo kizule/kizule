@@ -56,7 +56,7 @@ Last Updated: Tuesday, September 10th, 2024, 1:22:31 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>Facebook has over a billion users. If it was a country it would be the third largest in the world.</i>
+• <i>“Software is like entropy: It is difficult to grasp, weighs nothing, and obeys the Second Law of Thermodynamics; i.e., it always increases.”— Norman Augustine   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

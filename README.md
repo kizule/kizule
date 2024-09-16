@@ -56,7 +56,7 @@ Last Updated: Monday, September 16th, 2024, 1:26:55 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>If you open up the case of the original Macintosh, there are 47 signatures there, which are from each member of Apple’s Macintosh division in Interesting?</i>
+• <i>“Make everything as simple as possible, but not simpler.”— Albert Einstein   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

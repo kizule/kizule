@@ -56,7 +56,7 @@ Last Updated: Saturday, September 21st, 2024, 1:22:05 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>An average person normally blinks 20 times a minute, but when using a computer he/she blinks only 7 times a minute.</i>
+• <i>Gaming computers heat a room just as efficiently as a space heater does.</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

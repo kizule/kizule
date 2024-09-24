@@ -56,7 +56,7 @@ Last Updated: Tuesday, September 24th, 2024, 1:25:54 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“Real knowledge is to know the extent of one’s ignorance.”— Confucius   </i>
+• <i>The computer in your cell phone today is million times cheaper and a thousands times more powerful and about a hundred thousands times smaller than the one computer at MIT in 1965.</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

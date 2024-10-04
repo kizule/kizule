@@ -56,7 +56,7 @@ Last Updated: Friday, October 4th, 2024, 1:25:53 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>In Windows 98, minimized windows are actually moved far away outside the average monitor’s resolution.</i>
+• <i>HP, Microsoft and Apple have one very interesting thing in common – they were all started in a garage.</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

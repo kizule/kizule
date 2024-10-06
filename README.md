@@ -56,7 +56,7 @@ Last Updated: Sunday, October 6th, 2024, 1:38:44 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“From a programmer’s point of view, the user is a peripheral that types when you issue a read request.”— P. Williams   </i>
+• <i>The house where Bill Gates lives, was designed using a Macintosh computer.</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

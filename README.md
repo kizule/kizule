@@ -56,7 +56,7 @@ Last Updated: Monday, October 28th, 2024, 1:37:42 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>Hard disks are so sensitive to vibration, that just screaming at them diminishes their performance.</i>
+• <i>The term “World Wide Web” was invented by Tim Berners in 1990.</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

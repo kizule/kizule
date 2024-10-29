@@ -56,7 +56,7 @@ Last Updated: Tuesday, October 29th, 2024, 1:35:33 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>The term “World Wide Web” was invented by Tim Berners in 1990.</i>
+• <i>A group of 12 engineers designed IBM PC and they were called as “The Dirty Dozen”.</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

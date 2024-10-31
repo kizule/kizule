@@ -56,7 +56,7 @@ Last Updated: Thursday, October 31st, 2024, 1:35:22 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>There are over 1.5 billion instant messaging id’s in the world over.</i>
+• <i>There are more than 5000 new computer viruses are released every month.</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

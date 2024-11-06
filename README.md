@@ -56,7 +56,7 @@ Last Updated: Wednesday, November 6th, 2024, 1:24:16 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“When you are stuck in a traffic jam with a Porsche, all you do is burn more gas in idle.  Scalability is about building wider roads, not about building faster cars.”— Steve Swartz   </i>
+• <i>Doug Engelbart invented the first computer mouse in around 1964 which was made of wood.</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

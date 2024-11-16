@@ -56,7 +56,7 @@ Last Updated: Saturday, November 16th, 2024, 1:36:26 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>Facebook has over a billion users. If it was a country it would be the third largest in the world.</i>
+• <i>YouTube was founded by 3 former employees of PayPal.</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

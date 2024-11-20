@@ -56,7 +56,7 @@ Last Updated: Wednesday, November 20th, 2024, 1:37:37 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>The fact that keyboard have ‘Q’ ‘W’ ‘E’ ‘R’ ‘T’ ‘Y’ types of button: When keyboard was invented, it had buttons in alphabetical order, as a result, the typing speed was too fast and the computer used to hang. So, to reduce the speed of a person, qwerty keyboard were invented.</i>
+• <i>“As a rule, software systems do not work well until they have been used, and have failed repeatedly, in real applications.”— Dave Parnas   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

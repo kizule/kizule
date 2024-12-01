@@ -56,7 +56,7 @@ Last Updated: Sunday, December 1st, 2024, 1:54:12 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>If you open up the case of the original Macintosh, there are 47 signatures there, which are from each member of Apple’s Macintosh division in Interesting?</i>
+• <i>“Computer Science is no more about computers than astronomy is about telescopes.”— Edsger W. Dijkstra  </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

@@ -56,7 +56,7 @@ Last Updated: Saturday, December 7th, 2024, 1:40:18 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>500 hours of Video are uploaded to Facebook every minute according to Forecast.</i>
+• <i>The first webcam was used at Cambridge University. Its purpose was to monitor a coffee maker so they didn’t waste trips to an empty pot.</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

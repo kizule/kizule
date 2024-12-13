@@ -56,7 +56,7 @@ Last Updated: Friday, December 13th, 2024, 1:43:01 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>The house where Bill Gates lives, was designed using a Macintosh computer.</i>
+• <i>“Real knowledge is to know the extent of one’s ignorance.”— Confucius   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

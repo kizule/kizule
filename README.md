@@ -56,7 +56,7 @@ Last Updated: Wednesday, December 18th, 2024, 1:41:17 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“I think it’s a new feature.  Don’t tell anyone it was an accident.”— Larry Wall   </i>
+• <i>“If people never did silly things, nothing intelligent would ever get done.”— Ludwig Wittgenstein   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

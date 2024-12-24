@@ -56,7 +56,7 @@ Last Updated: Tuesday, December 24th, 2024, 1:26:13 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“I am not out to destroy Microsoft, that would be a completely unintended side effect.”— Linus Torvalds   </i>
+• <i>There is a video game, called “Lose/Lose” that deletes a random file on your computer every time you kill an enemy.</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

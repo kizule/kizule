@@ -56,7 +56,7 @@ Last Updated: Sunday, February 16th, 2025, 1:39:43 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>The original name of Windows was Interface Manager.</i>
+• <i>“Your most unhappy customers are your greatest source of learning.”— Bill Gates   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

@@ -56,7 +56,7 @@ Last Updated: Saturday, February 22nd, 2025, 1:24:28 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>A computer worm was present before that could access your Windows XP OS, could download a patch from Microsoft to exist the vulnerability as used it to infect the system and after delete itself.</i>
+• <i>“A computer once beat me at chess, but it was no match for me at kick boxing.”— Emo Philips  </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

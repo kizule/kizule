@@ -56,7 +56,7 @@ Last Updated: Friday, February 28th, 2025, 1:36:32 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>CAPTCHA is an acronym for “Completely Automated Public Turing test to tell Computers and Humans Apart”</i>
+• <i>Facebook has over a billion users. If it was a country it would be the third largest in the world.</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

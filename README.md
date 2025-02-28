@@ -7,7 +7,7 @@
 ### 👨‍💻 Some things about me:
 
 * 💼 I'm currently working part-time for [MyWikis](https://mywikis.com)
-* 🥅 2024 Goal: Write a book about MediaWiki in Serbian language
+* 🥅 2025 Goal: Write a book about MediaWiki in Serbian language
 * 💬 Be free to ask me about anything, especially about the MediaWiki
 * 📫 How to reach me: [Email](mailto:zorandori4444@gmail.com), [Wikipedia](https://en.wikipedia.org/wiki/User_talk:Kizule)
 

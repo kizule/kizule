@@ -15,14 +15,14 @@
 ### ⚡ Recent GitHub Activity:
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#59](https://github.com/SemanticMediaWiki/SemanticTasks/pull/59#issuecomment-2690032737) in [SemanticMediaWiki/SemanticTasks](https://github.com/SemanticMediaWiki/SemanticTasks)<br>
-2. 💬 Commented on [#59](https://github.com/SemanticMediaWiki/SemanticTasks/pull/59#issuecomment-2689880215) in [SemanticMediaWiki/SemanticTasks](https://github.com/SemanticMediaWiki/SemanticTasks)<br>
-3. ⬆️ Pushed 1 commit(s) to [kizule/SemanticTasks](https://github.com/kizule/SemanticTasks)<br>
-4. ⬆️ Pushed 8 commit(s) to [kizule/SemanticTasks](https://github.com/kizule/SemanticTasks)<br>
-5. ⬆️ Pushed 1 commit(s) to [kizule/kizule](https://github.com/kizule/kizule)<br>
+1. ⬆️ Pushed 26 commit(s) to [kizule/SemanticScribunto](https://github.com/kizule/SemanticScribunto)<br>
+2. ❌ Closed PR [#64](https://github.com/SemanticMediaWiki/SemanticCompoundQueries/pull/64) in [SemanticMediaWiki/SemanticCompoundQueries](https://github.com/SemanticMediaWiki/SemanticCompoundQueries)<br>
+3. ⬆️ Pushed 26 commit(s) to [kizule/SemanticCompoundQueries](https://github.com/kizule/SemanticCompoundQueries)<br>
+4. ⬆️ Pushed 19 commit(s) to [kizule/SemanticCite](https://github.com/kizule/SemanticCite)<br>
+5. ⬆️ Pushed 126 commit(s) to [kizule/SemanticResultFormats](https://github.com/kizule/SemanticResultFormats)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, March 1st, 2025, 1:41:41 AM
+Last Updated: Saturday, March 1st, 2025, 6:26:35 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 ---
 

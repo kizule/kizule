@@ -56,7 +56,7 @@ Last Updated: Saturday, March 8th, 2025, 1:12:29 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“Physics is the universe’s operating system.”— Steven R Garman   </i>
+• <i>IBM was so powerful in 1983 that people feared that its PCjr home computer would destroy Apple, Commodore, and all other competitors. The PCjr became “one of the biggest flops in the history of computing”.</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

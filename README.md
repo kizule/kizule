@@ -56,7 +56,7 @@ Last Updated: Friday, March 14th, 2025, 1:37:23 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“Software is a gas; it expands to fill its container.”— Nathan Myhrvold  </i>
+• <i>“It’s better to wait for a productive programmer to become available than it is to wait for the first available programmer to become productive.”— Steve McConnell</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

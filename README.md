@@ -56,7 +56,7 @@ Last Updated: Monday, March 31st, 2025, 1:45:51 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>The very first computer was an abacus invested 500 B.C in Babylon made of string and beads whose main purpose was to count.</i>
+• <i>Doug Engelbart invented the first computer mouse in around 1964 which was made of wood.</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

@@ -51,7 +51,7 @@ Last Updated: Wednesday, April 16th, 2025, 1:44:31 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“It is easier to change the specification to fit the program than vice versa.”— Alan Perlis   </i>
+• <i>“Software is like entropy: It is difficult to grasp, weighs nothing, and obeys the Second Law of Thermodynamics; i.e., it always increases.”— Norman Augustine   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

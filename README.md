@@ -52,7 +52,7 @@ Last Updated: Monday, April 28th, 2025, 1:47:50 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>The very first computer was an abacus invested 500 B.C in Babylon made of string and beads whose main purpose was to count.</i>
+• <i>“It’s better to wait for a productive programmer to become available than it is to wait for the first available programmer to become productive.”— Steve McConnell</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

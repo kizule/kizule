@@ -52,7 +52,7 @@ Last Updated: Friday, May 2nd, 2025, 1:45:37 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“Simplicity, carried to the extreme, becomes elegance.”— Jon Franklin   </i>
+• <i>Only about 10% of the world’s currency is physical money, the rest only exists on computers.</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

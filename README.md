@@ -52,7 +52,7 @@ Last Updated: Monday, May 5th, 2025, 1:49:45 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“The computer was born to solve problems that did not exist before.”— Bill Gates    </i>
+• <i>The first Apple computer ever made by Steve Jobs and Steve Wozniak was made from old parts they collected for free from their staff!</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

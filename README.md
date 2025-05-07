@@ -56,7 +56,7 @@ Last Updated: Wednesday, May 7th, 2025, 1:47:17 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>The Space Invaders game was intended to always be played at the same speed, but as you destroy more aliens, the computer can render faster. This is why the aliens speed up as you near the end of the level.</i>
+• <i>The password for the computer controls of nuclear-tipped missiles of the U.S was 00000000 for eight years.</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

@@ -56,7 +56,7 @@ Last Updated: Wednesday, May 14th, 2025, 1:47:16 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“There is only one problem with common sense; it’s not very common.”— Milt Bryce   </i>
+• <i>“There are only two things wrong with C++:  The initial concept and the implementation.”— Bertrand Meyer   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

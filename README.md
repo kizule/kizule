@@ -56,7 +56,7 @@ Last Updated: Saturday, May 17th, 2025, 1:45:24 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>The Space Invaders game was intended to always be played at the same speed, but as you destroy more aliens, the computer can render faster. This is why the aliens speed up as you near the end of the level.</i>
+• <i>“I do not fear computers. I fear lack of them.”— Isaac Asimov  </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

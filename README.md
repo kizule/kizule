@@ -56,7 +56,7 @@ Last Updated: Friday, May 23rd, 2025, 1:48:05 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>Only 2 out of the top 500 supercomputers run on Windows, and 485 are Linux.</i>
+• <i>The microcontroller inside a MacBook charger is about as powerful as the original Macintosh computer.</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

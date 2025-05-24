@@ -56,7 +56,7 @@ Last Updated: Saturday, May 24th, 2025, 1:44:09 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>The microcontroller inside a MacBook charger is about as powerful as the original Macintosh computer.</i>
+• <i>Mortal Kombat II was so popular when it hit the arcades that several of the machines were later installed with deadlock security panels on the back to prevent thieves from ripping the game’s motherboard straight out of the machine and taking it home.</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

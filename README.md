@@ -56,7 +56,7 @@ Last Updated: Wednesday, May 28th, 2025, 1:49:15 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“Commenting your code is like cleaning your bathroom — you never want to do it, but it really does create a more pleasant experience for you and your guests.”— Ryan Campbell  </i>
+• <i>“Java is the most distressing thing to hit computing since MS-DOS.”— Alan Kay  </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

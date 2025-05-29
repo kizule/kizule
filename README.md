@@ -56,7 +56,7 @@ Last Updated: Thursday, May 29th, 2025, 1:49:01 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“Java is the most distressing thing to hit computing since MS-DOS.”— Alan Kay  </i>
+• <i>“Hoaxes use weaknesses in human behavior to ensure they are replicated and distributed.  In other words, hoaxes prey on the Human Operating System.”— Stewart Kirkpatrick   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

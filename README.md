@@ -55,7 +55,7 @@ Last Updated: Sunday, June 8th, 2025, 1:59:03 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>Lenovo stands for ‘new legend’. ‘Le’ for legend, and ‘novo’ stands for new.</i>
+• <i>“If you automate a mess, you get an automated mess.”— Rod Michael   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

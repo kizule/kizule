@@ -55,7 +55,7 @@ Last Updated: Wednesday, June 11th, 2025, 1:52:00 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“In 2031, lawyers will be commonly a part of most development teams.”— Grady Booch   </i>
+• <i>There are around  3.58 billion internet users worldwide as of 2017 according to statista.</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

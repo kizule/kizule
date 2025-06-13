@@ -55,7 +55,7 @@ Last Updated: Friday, June 13th, 2025, 1:51:28 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>Only about 10% of the world’s currency is physical money, the rest only exists on computers.</i>
+• <i>“On two occasions I have been asked, ‘If you put into the machine wrong figures, will the right answers come out?’  I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question.”— Charles Babbage   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

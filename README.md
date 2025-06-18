@@ -55,7 +55,7 @@ Last Updated: Wednesday, June 18th, 2025, 1:51:15 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>When you’re all grown up and working and you use a computer each day, your hands would have traveled 12.6 miles (about 20km) per day!</i>
+• <i>“It should be noted that no ethically-trained software engineer would ever consent to write a DestroyBaghdad procedure.  Basic professional ethics would instead require him to write a DestroyCity procedure, to which Baghdad could be given as a parameter.”— Nathaniel S. Borenstein   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

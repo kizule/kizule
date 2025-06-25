@@ -56,7 +56,7 @@ Last Updated: Wednesday, June 25th, 2025, 1:53:04 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>Konrad Zuse is the inventor of the first programmable computer in the world. He did it in 1936 and named the computer as Z1. Konrad Zuse</i>
+• <i>“If people never did silly things, nothing intelligent would ever get done.”— Ludwig Wittgenstein   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

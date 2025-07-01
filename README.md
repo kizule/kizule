@@ -56,7 +56,7 @@ Last Updated: Tuesday, July 1st, 2025, 2:03:34 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“The best way to predict the future is to implement it.”— David Heinemeier Hansson   </i>
+• <i>“Where is the ‘any’ key?”— Homer Simpson, in response to the message, “Press any key”   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

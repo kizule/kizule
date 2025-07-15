@@ -56,7 +56,7 @@ Last Updated: Tuesday, July 15th, 2025, 2:01:29 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>TYPEWRITER is the longest word that you can write using the letters only on one row of the keyboard of your computer.</i>
+• <i>All the domain names such as Google, Log In or Sign Up were free until 1995, but now everyone has to pay for every new domain name.</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

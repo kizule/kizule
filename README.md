@@ -56,7 +56,7 @@ Last Updated: Tuesday, July 29th, 2025, 2:11:30 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>Amazon was a hard cover book seller, but actually now sells more e-books than hard covers</i>
+• <i>“If we wish to count lines of code, we should not regard them as ‘lines produced’ but as ‘lines spent.'”— Edsger Dijkstra   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

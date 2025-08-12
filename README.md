@@ -56,7 +56,7 @@ Last Updated: Tuesday, August 12th, 2025, 1:51:08 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“It is easier to change the specification to fit the program than vice versa.”— Alan Perlis   </i>
+• <i>“Two years from now, spam will be solved.”— Bill Gates, 2004   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

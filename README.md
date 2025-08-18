@@ -51,7 +51,7 @@ Last Updated: Monday, August 18th, 2025, 2:00:17 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“I think it’s a new feature.  Don’t tell anyone it was an accident.”— Larry Wall   </i>
+• <i>There are over 1.5 billion instant messaging id’s in the world over.</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

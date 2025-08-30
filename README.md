@@ -51,7 +51,7 @@ Last Updated: Saturday, August 30th, 2025, 1:37:03 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“I do not fear computers. I fear lack of them.”— Isaac Asimov  </i>
+• <i>“Before software should be reusable, it should be usable.”— Ralph Johnson  </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

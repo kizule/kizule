@@ -51,7 +51,7 @@ Last Updated: Saturday, September 6th, 2025, 1:36:44 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“UNIX is simple.  It just takes a genius to understand its simplicity.”— Dennis Ritchie   </i>
+• <i>As computers run, they get hot. Computers have fans to keep them cool.</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

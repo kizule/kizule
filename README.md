@@ -51,7 +51,7 @@ Last Updated: Sunday, September 7th, 2025, 1:44:57 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>As computers run, they get hot. Computers have fans to keep them cool.</i>
+• <i>According to a survey, most of the apps in your android device leaks your data, so be aware.</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

@@ -51,7 +51,7 @@ Last Updated: Sunday, September 21st, 2025, 1:47:07 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“If you automate a mess, you get an automated mess.”— Rod Michael   </i>
+• <i>“Hoaxes use weaknesses in human behavior to ensure they are replicated and distributed.  In other words, hoaxes prey on the Human Operating System.”— Stewart Kirkpatrick   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

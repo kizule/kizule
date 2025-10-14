@@ -16,10 +16,13 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. 💬 Commented on [#14693](https://github.com/darkreader/darkreader/issues/14693#issuecomment-3385371527) in [darkreader/darkreader](https://github.com/darkreader/darkreader)<br>
-2. 💬 Commented on [#14412](https://github.com/darkreader/darkreader/pull/14412#issuecomment-3366514051) in [darkreader/darkreader](https://github.com/darkreader/darkreader)<br>
+2. 💬 Commented on [#37](https://github.com/kizule/HideVariousTabsFromUnauthorizedUsers/pull/37#issuecomment-3375948294) in [kizule/HideVariousTabsFromUnauthorizedUsers](https://github.com/kizule/HideVariousTabsFromUnauthorizedUsers)<br>
+3. 💬 Commented on [#38](https://github.com/kizule/HideVariousTabsFromUnauthorizedUsers/pull/38#issuecomment-3375948112) in [kizule/HideVariousTabsFromUnauthorizedUsers](https://github.com/kizule/HideVariousTabsFromUnauthorizedUsers)<br>
+4. 💬 Commented on [#53](https://github.com/kizule/mediawiki-extensions-Kicksecure/pull/53#issuecomment-3375946532) in [kizule/mediawiki-extensions-Kicksecure](https://github.com/kizule/mediawiki-extensions-Kicksecure)<br>
+5. 💬 Commented on [#52](https://github.com/kizule/mediawiki-extensions-Kicksecure/pull/52#issuecomment-3375946349) in [kizule/mediawiki-extensions-Kicksecure](https://github.com/kizule/mediawiki-extensions-Kicksecure)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, October 14th, 2025, 12:47:41 PM
+Last Updated: Tuesday, October 14th, 2025, 6:30:54 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 ---
 

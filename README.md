@@ -56,7 +56,7 @@ Last Updated: Saturday, October 18th, 2025, 1:36:25 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>There is a website called “The Useless Web” . This is the last treatment for your boredom. If you ever feel bored please visit.</i>
+• <i>“UNIX is simple.  It just takes a genius to understand its simplicity.”— Dennis Ritchie   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

@@ -56,7 +56,7 @@ Last Updated: Tuesday, October 21st, 2025, 1:44:05 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“BASIC is to computer programming as QWERTY is to typing.”— Seymour Papert   </i>
+• <i>Web Arx security says more than 20,000 websites are hacked each day and most from the US</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

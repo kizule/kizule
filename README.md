@@ -56,7 +56,7 @@ Last Updated: Wednesday, October 29th, 2025, 1:49:26 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>Amazon was a hard cover book seller, but actually now sells more e-books than hard covers</i>
+• <i>“Don’t document the problem, fix it.”— Atli Björgvin Oddsson   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

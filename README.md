@@ -56,7 +56,7 @@ Last Updated: Friday, October 31st, 2025, 1:45:48 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>IBM 5120 from 1980 was the heaviest desktop computer ever made. It weighed about 105 pounds, not including the 130 pounds external floppy drive.</i>
+• <i>E-Mail was invented before Internet. Shocked!!!! ” I also got shocked after hearing this.”</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

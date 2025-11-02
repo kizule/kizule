@@ -56,7 +56,7 @@ Last Updated: Sunday, November 2nd, 2025, 1:51:20 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>As computers run, they get hot. Computers have fans to keep them cool.</i>
+• <i>IMDb is one of the oldest websites on the internet, and began on Usenet in 1990 as a list of “actresses with beautiful eyes.”</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

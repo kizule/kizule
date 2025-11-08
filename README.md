@@ -52,7 +52,7 @@ Last Updated: Saturday, November 8th, 2025, 1:40:54 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge.”— Stephen Hawking   </i>
+• <i>“The best way to get accurate information on Usenet is to post something wrong and wait for corrections.”— Matthew Austern   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

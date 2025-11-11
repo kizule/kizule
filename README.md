@@ -51,7 +51,7 @@ Last Updated: Tuesday, November 11th, 2025, 1:48:27 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>Well, there are two games that were the first ever made in the US called Asteroids and Lunar Lander in 1980.</i>
+• <i>“Tell me and I forget.  Teach me and I remember.  Involve me and I learn.”— Benjamin Franklin   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

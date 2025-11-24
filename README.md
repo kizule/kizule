@@ -56,7 +56,7 @@ Last Updated: Monday, November 24th, 2025, 1:55:08 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>A 15 year old hacked NASA computers and caused a 21-day shutdown of their computers.</i>
+• <i>“In 2031, lawyers will be commonly a part of most development teams.”— Grady Booch   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

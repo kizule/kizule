@@ -56,7 +56,7 @@ Last Updated: Friday, November 28th, 2025, 1:46:30 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>Well, there are two games that were the first ever made in the US called Asteroids and Lunar Lander in 1980.</i>
+• <i>The Space Shuttle never flew on new year’s day or eve because its computers couldn’t handle a year rollover.</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

@@ -56,7 +56,7 @@ Last Updated: Monday, December 8th, 2025, 1:52:39 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“Commenting your code is like cleaning your bathroom — you never want to do it, but it really does create a more pleasant experience for you and your guests.”— Ryan Campbell  </i>
+• <i>According to a survey, most of the apps in your android device leaks your data, so be aware.</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

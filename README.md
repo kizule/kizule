@@ -56,7 +56,7 @@ Last Updated: Tuesday, December 9th, 2025, 1:52:00 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>According to a survey, most of the apps in your android device leaks your data, so be aware.</i>
+• <i>“Pessimists, we’re told, look at a glass containing 50% air and 50% water and see it as half empty.  Optimists, in contrast, see it as half full.  Engineers, of course, understand the glass is twice as big as it needs to be.”— Bob Lewis   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

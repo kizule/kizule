@@ -56,7 +56,7 @@ Last Updated: Saturday, December 13th, 2025, 1:48:10 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>Russians made a computer that ran on water in the mid of 1936.</i>
+• <i>If you open up the case of the original Macintosh, there are 47 signatures there, which are from each member of Apple’s Macintosh division in Interesting?</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

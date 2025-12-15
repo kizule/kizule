@@ -56,7 +56,7 @@ Last Updated: Monday, December 15th, 2025, 1:58:19 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>It took Pixar 29 hours to render a single frame from Monster’s University. If done on a single CPU it would have taken 10,000 years to finish.</i>
+• <i>A group of 12 engineers designed IBM PC and they were called as “The Dirty Dozen”.</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

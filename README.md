@@ -56,7 +56,7 @@ Last Updated: Thursday, December 25th, 2025, 1:55:40 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“Don’t document the problem, fix it.”— Atli Björgvin Oddsson   </i>
+• <i>Hard disks are so sensitive to vibration, that just screaming at them diminishes their performance.</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

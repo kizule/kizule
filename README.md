@@ -56,7 +56,7 @@ Last Updated: Saturday, December 27th, 2025, 1:52:47 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>The US Federal Register is still using floppy disks sent by courier because a secure e-mail system is “too expensive”.</i>
+• <i>Lenovo stands for ‘new legend’. ‘Le’ for legend, and ‘novo’ stands for new.</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

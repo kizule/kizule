@@ -56,7 +56,7 @@ Last Updated: Sunday, December 28th, 2025, 2:06:09 AM
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>Lenovo stands for ‘new legend’. ‘Le’ for legend, and ‘novo’ stands for new.</i>
+• <i>“Computer viruses are an urban legend.”— Peter Norton, 1988   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 

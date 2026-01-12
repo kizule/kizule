@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-- 💼 Working part-time for [MyWikis](https://mywikis.com) - Building enterprise wiki solutions
+- 💼 Working part-time for [MyWikis](https://mywikis.com) - Customer support, development, and platform improvements
 - 💬 Always happy to discuss MediaWiki, open-source development, and Wikipedia projects
 - 📚 Active contributor to open-source and Wikipedia community
 
